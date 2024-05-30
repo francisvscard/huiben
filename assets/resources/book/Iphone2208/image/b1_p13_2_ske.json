@@ -1,0 +1,3030 @@
+{
+   "armature" : [
+      {
+         "aabb" : {
+            "height" : 574.29000169038773,
+            "width" : 665.35421781268462,
+            "x" : -242.1292165669476,
+            "y" : -428.08500126004219
+         },
+         "animation" : [
+            {
+               "bone" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 140,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "root"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 140,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zddd"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 140,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 3,
+                           "transform" : {
+                              "scX" : 0.55000000000000004
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 17,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "ym"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 140,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 3,
+                           "transform" : {
+                              "scX" : 0.55000000000000004,
+                              "x" : -5.1021900150179862
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 17,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zm"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -128.85658237928152,
+                              "y" : 174.12788751253487
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 26,
+                           "transform" : {
+                              "x" : -128.85658237928152,
+                              "y" : 161.81451047629116
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 29,
+                           "transform" : {
+                              "x" : -128.85658237928152,
+                              "y" : 174.12788751253487
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 28,
+                           "transform" : {
+                              "x" : -128.85658237928152,
+                              "y" : 161.81451047629116
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -128.85658237928152,
+                              "y" : 174.12788751253487
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 29,
+                           "transform" : {
+                              "x" : -128.85658237928152,
+                              "y" : 161.81451047629116
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 5,
+                           "transform" : {
+                              "x" : -128.85658237928152,
+                              "y" : 174.12788751253487
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 3,
+                           "transform" : {
+                              "x" : -128.85658237928152,
+                              "y" : 174.12788751253487
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 3,
+                           "transform" : {
+                              "x" : -111.08736932697893,
+                              "y" : 123.30322236293554
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 4,
+                           "transform" : {
+                              "x" : -93.318156274676326,
+                              "y" : 83.752380246520033
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 3,
+                           "transform" : {
+                              "x" : -53.178687156528234,
+                              "y" : 41.855535123199225
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 2,
+                           "transform" : {
+                              "x" : -21.271491062611339,
+                              "y" : 14.739246043384075
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "st"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 134,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "scX" : 0.5
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "gm"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 140,
+                           "transform" : {
+                              "skX" : -18.2972,
+                              "skY" : -18.2972,
+                              "x" : 196.27004757770894,
+                              "y" : 28.917486085116863
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "skX" : -18.2972,
+                              "skY" : -18.2972,
+                              "x" : 196.27004757770894,
+                              "y" : 28.917486085116863
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {
+                              "scX" : 1.1499999999999999,
+                              "skX" : -61.454700000000003,
+                              "skY" : -61.454700000000003
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {
+                              "scX" : 1.1499999999999999,
+                              "skX" : -61.454700000000003,
+                              "skY" : -61.454700000000003
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zj3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 134,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "scX" : 0.59999999999999998
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "gm1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 140,
+                           "transform" : {
+                              "skX" : -63.307099999999998,
+                              "skY" : -63.307099999999998
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {
+                              "skX" : -63.307099999999998,
+                              "skY" : -63.307099999999998
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 14,
+                           "transform" : {
+                              "scX" : 0.75,
+                              "skX" : -44.314999999999998,
+                              "skY" : -44.314999999999998
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {
+                              "scX" : 1.1000000000000001,
+                              "skX" : 67.031300000000002,
+                              "skY" : 67.031300000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {
+                              "scX" : 1.1000000000000001,
+                              "skX" : 67.031300000000002,
+                              "skY" : 67.031300000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zj4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 140,
+                           "transform" : {
+                              "skX" : 138.3434,
+                              "skY" : 138.3434
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "skX" : 138.3434,
+                              "skY" : 138.3434
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zj2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 140,
+                           "transform" : {
+                              "skX" : 15.2675,
+                              "skY" : 15.2675
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "skX" : 15.2675,
+                              "skY" : 15.2675
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 3,
+                           "transform" : {
+                              "skX" : 7.1889000000000003,
+                              "skY" : 7.1889000000000003
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 1,
+                           "transform" : {
+                              "skX" : 4.7539999999999996,
+                              "skY" : 4.7539999999999996
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zj1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 140,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yjz"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 140,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {
+                              "scX" : 0.69999999999999996
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zjz"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 140,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "jzd"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 140,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {
+                              "scX" : 0.55000000000000004
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yjz1"
+                  }
+               ],
+               "duration" : 192,
+               "ffd" : [],
+               "frame" : [],
+               "ik" : [],
+               "name" : "zd1c",
+               "playTimes" : 0,
+               "slot" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 134,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 5,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 1,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "color" : {
+                              "aM" : 0
+                           },
+                           "duration" : 52,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "gm1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 134,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 5,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 1,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "color" : {
+                              "aM" : 0
+                           },
+                           "duration" : 52,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "gm"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "color" : {
+                              "aM" : 0
+                           },
+                           "duration" : 139,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "color" : {
+                              "aM" : 0
+                           },
+                           "duration" : 1,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 3,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 49,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "zm"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "color" : {
+                              "aM" : 0
+                           },
+                           "duration" : 139,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "color" : {
+                              "aM" : 0
+                           },
+                           "duration" : 1,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 3,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 49,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "ym"
+                  }
+               ]
+            },
+            {
+               "bone" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "root"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zddd"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "ym"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zm"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "skX" : 2.9327000000000001,
+                              "skY" : 2.9327000000000001,
+                              "x" : 9.6109740282893181,
+                              "y" : -15.358086045205592
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "st"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "gm"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "skX" : 5.5304000000000002,
+                              "skY" : 5.5304000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zj3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "gm1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "skX" : -6.1954000000000002,
+                              "skY" : -6.1954000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zj4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zj2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "skX" : 6.0088999999999997,
+                              "skY" : 6.0088999999999997
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zj1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yjz"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zjz"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "jzd"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yjz1"
+                  }
+               ],
+               "duration" : 40,
+               "ffd" : [],
+               "frame" : [],
+               "ik" : [],
+               "name" : "zddj",
+               "playTimes" : 0,
+               "slot" : [
+                  {
+                     "frame" : [
+                        {
+                           "color" : {
+                              "aM" : 0
+                           },
+                           "duration" : 40,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "gm1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "color" : {
+                              "aM" : 0
+                           },
+                           "duration" : 40,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "gm"
+                  }
+               ]
+            },
+            {
+               "bone" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "root"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zddd"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "ym"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zm"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {
+                              "skX" : 2.9327000000000001,
+                              "skY" : 2.9327000000000001,
+                              "x" : 9.6109740282893181,
+                              "y" : -15.358086045205592
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 26.425000000000001,
+                              "skY" : 26.425000000000001,
+                              "x" : 7.5410190221965321,
+                              "y" : -59.735961175829168
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {
+                              "skX" : 2.9327000000000001,
+                              "skY" : 2.9327000000000001,
+                              "x" : 9.6109740282893181,
+                              "y" : -15.358086045205592
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {
+                              "skX" : 26.425000000000001,
+                              "skY" : 26.425000000000001,
+                              "x" : 7.5410190221965321,
+                              "y" : -59.735961175829168
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "st"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "gm"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {
+                              "skX" : 5.5304000000000002,
+                              "skY" : 5.5304000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 10.2768,
+                              "skY" : 10.2768
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {
+                              "skX" : 5.5304000000000002,
+                              "skY" : 5.5304000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {
+                              "skX" : 10.2768,
+                              "skY" : 10.2768
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zj3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "gm1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {
+                              "skX" : -6.1954000000000002,
+                              "skY" : -6.1954000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : -10.8588,
+                              "skY" : -10.8588
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {
+                              "skX" : -6.1954000000000002,
+                              "skY" : -6.1954000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {
+                              "skX" : -10.8588,
+                              "skY" : -10.8588
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zj4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 6.2611999999999997,
+                              "skY" : 6.2611999999999997
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {
+                              "skX" : 6.2611999999999997,
+                              "skY" : 6.2611999999999997
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zj2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {
+                              "skX" : 6.0088999999999997,
+                              "skY" : 6.0088999999999997
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 23.6218,
+                              "skY" : 23.6218
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {
+                              "skX" : 6.0088999999999997,
+                              "skY" : 6.0088999999999997
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {
+                              "skX" : 23.6218,
+                              "skY" : 23.6218
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zj1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yjz"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "zjz"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "jzd"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yjz1"
+                  }
+               ],
+               "duration" : 40,
+               "ffd" : [],
+               "frame" : [],
+               "ik" : [],
+               "name" : "dc",
+               "playTimes" : 0,
+               "slot" : [
+                  {
+                     "frame" : [
+                        {
+                           "color" : {
+                              "aM" : 0
+                           },
+                           "duration" : 40,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "gm1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "color" : {
+                              "aM" : 0
+                           },
+                           "duration" : 40,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "gm"
+                  }
+               ]
+            }
+         ],
+         "bone" : [
+            {
+               "name" : "root",
+               "transform" : {
+                  "scX" : 1.2345678976006922,
+                  "scY" : 1.2345678976006922,
+                  "x" : -27.999999999999996,
+                  "y" : 174.0
+               }
+            },
+            {
+               "length" : 25.920000076293945,
+               "name" : "zddd",
+               "parent" : "root",
+               "transform" : {
+                  "skX" : -90,
+                  "skY" : -90,
+                  "x" : 300.63150088489056,
+                  "y" : -104.2470003068447
+               }
+            },
+            {
+               "length" : 14.580000042915344,
+               "name" : "ym",
+               "parent" : "root",
+               "transform" : {
+                  "skX" : -175.90360000000001,
+                  "skY" : -175.90360000000001,
+                  "x" : 137.94300040602684,
+                  "y" : -169.04700049757957
+               }
+            },
+            {
+               "length" : 22.680000066757202,
+               "name" : "zm",
+               "parent" : "root",
+               "transform" : {
+                  "skX" : -177.26410000000001,
+                  "skY" : -177.26410000000001,
+                  "x" : 81.243000239133835,
+                  "y" : -165.76650048792362
+               }
+            },
+            {
+               "length" : 59.940000176429749,
+               "name" : "st",
+               "parent" : "root",
+               "transform" : {
+                  "skX" : -95.908799999999999,
+                  "skY" : -95.908799999999999,
+                  "x" : -196.38450057804585,
+                  "y" : -82.09350024163723
+               }
+            },
+            {
+               "length" : 29.970000088214874,
+               "name" : "gm",
+               "parent" : "root",
+               "transform" : {
+                  "skX" : -179.24860000000001,
+                  "skY" : -179.24860000000001,
+                  "x" : 138.51000040769577,
+                  "y" : -158.66992846703531
+               }
+            },
+            {
+               "length" : 142.5600004196167,
+               "name" : "zj3",
+               "parent" : "root",
+               "transform" : {
+                  "skX" : -134.80510000000001,
+                  "skY" : -134.80510000000001,
+                  "x" : 115.87050034105779,
+                  "y" : -166.9815004914999
+               }
+            },
+            {
+               "length" : 26.730000078678131,
+               "name" : "gm1",
+               "parent" : "root",
+               "transform" : {
+                  "x" : 67.068000197410583,
+                  "y" : -159.20550046861172
+               }
+            },
+            {
+               "length" : 137.70000040531158,
+               "name" : "zj4",
+               "parent" : "zj3",
+               "transform" : {
+                  "skX" : -90.384699999999995,
+                  "skY" : -90.384699999999995,
+                  "x" : 147.44875543400647,
+                  "y" : -2.4203610071241859
+               }
+            },
+            {
+               "length" : 33.210000097751617,
+               "name" : "zj2",
+               "parent" : "zj4",
+               "transform" : {
+                  "skX" : -4.6623999999999999,
+                  "skY" : -4.6623999999999999,
+                  "x" : 141.22042241567374,
+                  "y" : -1.966437005788088
+               }
+            },
+            {
+               "length" : 15.39000004529953,
+               "name" : "zj1",
+               "parent" : "zj2",
+               "transform" : {
+                  "skX" : 21.0152,
+                  "skY" : 21.0152,
+                  "x" : 48.022308141350749,
+                  "y" : 4.1053230120837689
+               }
+            },
+            {
+               "length" : 17.820000052452087,
+               "name" : "yjz",
+               "parent" : "zj1",
+               "transform" : {
+                  "skX" : 15.851900000000001,
+                  "skY" : 15.851900000000001,
+                  "x" : 25.547967075198891,
+                  "y" : 1.6298820047974587
+               }
+            },
+            {
+               "length" : 13.770000040531158,
+               "name" : "zjz",
+               "parent" : "zj1",
+               "transform" : {
+                  "skX" : -176.6403,
+                  "skY" : -176.6403,
+                  "x" : 109.31679032176733,
+                  "y" : 27.502497080951926
+               }
+            },
+            {
+               "length" : 27.540000081062317,
+               "name" : "jzd",
+               "parent" : "zj1",
+               "transform" : {
+                  "skX" : 9.0783000000000005,
+                  "skY" : 9.0783000000000005,
+                  "x" : 63.879597188025706,
+                  "y" : 4.0569660119414337
+               }
+            },
+            {
+               "length" : 20.250000059604645,
+               "name" : "yjz1",
+               "parent" : "yjz",
+               "transform" : {
+                  "skX" : 5.9878,
+                  "skY" : 5.9878,
+                  "x" : 22.900968067407607,
+                  "y" : 2.1635910063683985
+               }
+            }
+         ],
+         "canvas" : {
+            "height" : 574.29000169038773,
+            "width" : 800.28000235557556,
+            "x" : 22.680000066757202,
+            "y" : -140.94000041484833
+         },
+         "defaultActions" : [
+            {
+               "gotoAndPlay" : "zd1c"
+            }
+         ],
+         "frameRate" : 24,
+         "ik" : [],
+         "name" : "b1_p13_2_arm0",
+         "skin" : [
+            {
+               "name" : "",
+               "slot" : [
+                  {
+                     "display" : [
+                        {
+                           "name" : "13-2/st",
+                           "path" : "13-2/st",
+                           "transform" : {
+                              "skX" : 95.908799999999999,
+                              "skY" : 95.908799999999999,
+                              "x" : 29.713797087460758,
+                              "y" : -2.6657910078465941
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "st"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              3,
+                              -0.99886012407766545,
+                              -0.047733138672737888,
+                              0.047733138672737888,
+                              -0.99886012407766545,
+                              81.243000239133835,
+                              -165.76650048792362
+                           ],
+                           "edges" : [ 0, 1, 1, 3, 3, 2, 2, 0 ],
+                           "height" : 213.03000062704086,
+                           "name" : "13-2/zm",
+                           "path" : "13-2/zm",
+                           "slotPose" : [
+                              1,
+                              4.4408920985006262e-16,
+                              -4.4408920985006262e-16,
+                              1,
+                              66.420000195503235,
+                              -157.14000046253204
+                           ],
+                           "transform" : {
+                              "skX" : 177.26410000000001,
+                              "skY" : 177.26410000000001,
+                              "x" : 14.39434804236889,
+                              "y" : -9.3242340274453159
+                           },
+                           "triangles" : [ 1, 0, 3, 0, 2, 3 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [ 0, 0, 1, 0, 0, 1, 1, 1 ],
+                           "vertices" : [
+                              -19.035000056028366,
+                              -106.51500031352043,
+                              19.035000056028366,
+                              -106.51500031352043,
+                              -19.035000056028366,
+                              106.51500031352043,
+                              19.035000056028366,
+                              106.51500031352043
+                           ],
+                           "weights" : [ 1, 3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1 ],
+                           "width" : 38.070000112056732
+                        }
+                     ],
+                     "name" : "zm"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              11,
+                              -0.97442867747945983,
+                              0.22469702380234191,
+                              -0.22469702380234191,
+                              -0.97442867747945983,
+                              -145.15200042724609,
+                              -123.36300036311151,
+                              14,
+                              -0.99255193050164936,
+                              0.12182226913601772,
+                              -0.12182226913601772,
+                              -0.99255193050164936,
+                              -167.9535004943609,
+                              -120.32550035417081
+                           ],
+                           "edges" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 0 ],
+                           "height" : 24.300000071525574,
+                           "name" : "13-2/yjz",
+                           "path" : "13-2/yjz",
+                           "slotPose" : [
+                              1,
+                              -6.9388939039072284e-16,
+                              6.9388939039072284e-16,
+                              1,
+                              -167.26500049233434,
+                              -117.04500034451488
+                           ],
+                           "transform" : {
+                              "skX" : -173.0027,
+                              "skY" : -173.0027,
+                              "x" : -3.1237650091946128,
+                              "y" : -2.7245160080194473
+                           },
+                           "triangles" : [ 6, 3, 5, 5, 3, 4, 6, 2, 3, 6, 7, 2, 7, 1, 2, 0, 1, 7 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0,
+                              0.24833,
+                              0,
+                              1,
+                              0.70786000000000004,
+                              1,
+                              0.77642999999999995,
+                              0.78500000000000003,
+                              1,
+                              0.64666999999999997,
+                              0.99643000000000004,
+                              0.00167,
+                              0.64429000000000003,
+                              0.00167,
+                              0.26213999999999998,
+                              0.00167
+                           ],
+                           "vertices" : [
+                              -28.350000083446503,
+                              -6.1155000180006027,
+                              -28.350000083446503,
+                              12.150000035762787,
+                              11.785500034689903,
+                              12.150000035762787,
+                              15.673500046133997,
+                              6.9255000203847894,
+                              28.350000083446503,
+                              3.5640000104904179,
+                              28.147500082850456,
+                              -12.109500035643578,
+                              8.1810000240802765,
+                              -12.109500035643578,
+                              -13.486500039696692,
+                              -12.109500035643578
+                           ],
+                           "weights" : [
+                              1,
+                              14,
+                              1,
+                              1,
+                              14,
+                              1,
+                              2,
+                              11,
+                              0.95999999999999996,
+                              14,
+                              0.040000000000000001,
+                              1,
+                              11,
+                              1,
+                              1,
+                              11,
+                              1,
+                              1,
+                              11,
+                              1,
+                              2,
+                              11,
+                              0.95999999999999996,
+                              14,
+                              0.040000000000000001,
+                              1,
+                              14,
+                              1
+                           ],
+                           "width" : 56.700000166893005
+                        }
+                     ],
+                     "name" : "yjz"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              5,
+                              -0.99991401196899565,
+                              -0.013113682475457245,
+                              0.013113682475459907,
+                              -0.99991401196899565,
+                              138.51000040769577,
+                              -158.66991172021511
+                           ],
+                           "edges" : [ 0, 1, 1, 3, 3, 2, 2, 0 ],
+                           "height" : 190.35000056028366,
+                           "name" : "13-2/gm",
+                           "path" : "13-2/gm",
+                           "slotPose" : [
+                              1,
+                              1.2434497875801752e-14,
+                              -1.5100767858378106e-14,
+                              1.0000000000000002,
+                              127.98000037670138,
+                              -162.00000047683722
+                           ],
+                           "transform" : {
+                              "skX" : 179.24860000000001,
+                              "skY" : 179.24860000000001,
+                              "x" : 10.572768031120299,
+                              "y" : 3.1917240093946457
+                           },
+                           "triangles" : [ 1, 0, 3, 0, 2, 3 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [ 0, 0, 1, 0, 0, 1, 1, 1 ],
+                           "vertices" : [
+                              -23.895000070333481,
+                              -95.17500028014183,
+                              23.895000070333481,
+                              -95.17500028014183,
+                              -23.895000070333481,
+                              95.17500028014183,
+                              23.895000070333481,
+                              95.17500028014183
+                           ],
+                           "weights" : [ 1, 5, 1, 1, 5, 1, 1, 5, 1, 1, 5, 1 ],
+                           "width" : 47.790000140666962
+                        }
+                     ],
+                     "name" : "gm"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              2,
+                              -0.99744525194008316,
+                              -0.071435071093853497,
+                              0.071435071093853497,
+                              -0.99744525194008316,
+                              137.94300040602684,
+                              -169.04700049757957
+                           ],
+                           "edges" : [ 0, 1, 1, 3, 3, 2, 2, 0 ],
+                           "height" : 217.89000064134598,
+                           "name" : "13-2/ym",
+                           "path" : "13-2/ym",
+                           "slotPose" : [
+                              1,
+                              8.8817841970012523e-16,
+                              -8.8817841970012523e-16,
+                              1,
+                              120.69000035524368,
+                              -161.19000047445294
+                           ],
+                           "transform" : {
+                              "skX" : 175.90360000000001,
+                              "skY" : 175.90360000000001,
+                              "x" : 16.647687049001455,
+                              "y" : -9.0694080266952515
+                           },
+                           "triangles" : [ 1, 0, 3, 0, 2, 3 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [ 0, 0, 1, 0, 0, 1, 1, 1 ],
+                           "vertices" : [
+                              -20.655000060796738,
+                              -108.94500032067299,
+                              20.655000060796738,
+                              -108.94500032067299,
+                              -20.655000060796738,
+                              108.94500032067299,
+                              20.655000060796738,
+                              108.94500032067299
+                           ],
+                           "weights" : [ 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1 ],
+                           "width" : 41.310000121593475
+                        }
+                     ],
+                     "name" : "ym"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              8,
+                              -0.70476053163553287,
+                              0.70944527135558588,
+                              -0.70944527135558588,
+                              -0.70476053163553287,
+                              10.246500030159966,
+                              -269.89200079441071
+                           ],
+                           "edges" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 0 ],
+                           "height" : 128.79000037908554,
+                           "name" : "13-2/zj4",
+                           "path" : "13-2/zj4",
+                           "slotPose" : [
+                              1,
+                              -2.2204460492503131e-16,
+                              2.2204460492503131e-16,
+                              1,
+                              -39.28500011563299,
+                              -215.46000063419342
+                           ],
+                           "transform" : {
+                              "skX" : -134.81020000000001,
+                              "skY" : -134.81020000000001,
+                              "x" : 73.524348216414452,
+                              "y" : -3.2216130094826223
+                           },
+                           "triangles" : [ 2, 1, 3, 1, 0, 3, 0, 4, 3, 6, 4, 0, 6, 5, 4 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0.65663000000000005,
+                              0,
+                              0.96053999999999995,
+                              0,
+                              1,
+                              0.063839999999999994,
+                              1,
+                              0.19622999999999999,
+                              0.18645,
+                              1,
+                              0,
+                              1,
+                              0,
+                              0.81667000000000001
+                           ],
+                           "vertices" : [
+                              21.060000061988831,
+                              -64.39500018954277,
+                              61.924500182271004,
+                              -64.39500018954277,
+                              67.230000197887421,
+                              -56.173500165343278,
+                              67.230000197887421,
+                              -39.123000115156174,
+                              -42.16050012409687,
+                              64.39500018954277,
+                              -67.230000197887421,
+                              64.39500018954277,
+                              -67.230000197887421,
+                              40.783500120043755
+                           ],
+                           "weights" : [ 1, 8, 1, 1, 8, 1, 1, 8, 1, 1, 8, 1, 1, 8, 1, 1, 8, 1, 1, 8, 1 ],
+                           "width" : 134.46000039577484
+                        }
+                     ],
+                     "name" : "zj4"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              9,
+                              -0.64476175125278068,
+                              0.76438359749634022,
+                              -0.76438359749634022,
+                              -0.64476175125278068,
+                              -87.885000258684158,
+                              -168.31800049543386
+                           ],
+                           "edges" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 0 ],
+                           "height" : 68.850000202655792,
+                           "name" : "13-2/zj2",
+                           "path" : "13-2/zj2",
+                           "slotPose" : [
+                              1,
+                              -2.7755575615628909e-16,
+                              2.7755575615628909e-16,
+                              1,
+                              -95.17500028014183,
+                              -149.04000043869019
+                           ],
+                           "transform" : {
+                              "skX" : -130.14779999999999,
+                              "skY" : -130.14779999999999,
+                              "x" : 19.436112057209016,
+                              "y" : -6.8573790201842781
+                           },
+                           "triangles" : [ 1, 0, 3, 0, 4, 3, 2, 1, 3, 7, 6, 4, 0, 7, 4, 6, 5, 4 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0.31419999999999998,
+                              0,
+                              0.74148000000000003,
+                              0,
+                              1,
+                              0.26529000000000003,
+                              1,
+                              0.49059000000000003,
+                              0.40455000000000002,
+                              1,
+                              0.18068000000000001,
+                              1,
+                              0,
+                              0.78824000000000005,
+                              0,
+                              0.38175999999999999
+                           ],
+                           "vertices" : [
+                              -13.243500038981439,
+                              -34.425000101327896,
+                              17.212500050663948,
+                              -34.425000101327896,
+                              35.640000104904175,
+                              -16.159500047564507,
+                              35.640000104904175,
+                              -0.64800000190734863,
+                              -6.8040000200271606,
+                              34.425000101327896,
+                              -22.761000066995621,
+                              34.425000101327896,
+                              -35.640000104904175,
+                              19.845000058412552,
+                              -35.640000104904175,
+                              -8.1405000239610672
+                           ],
+                           "weights" : [
+                              1,
+                              9,
+                              1,
+                              1,
+                              9,
+                              1,
+                              1,
+                              9,
+                              1,
+                              1,
+                              9,
+                              1,
+                              1,
+                              9,
+                              1,
+                              1,
+                              9,
+                              1,
+                              1,
+                              9,
+                              1,
+                              1,
+                              9,
+                              1
+                           ],
+                           "width" : 71.28000020980835
+                        }
+                     ],
+                     "name" : "zj2"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "zj4_boundingBox",
+                           "path" : "zj4_boundingBox",
+                           "subType" : "polygon",
+                           "transform" : {
+                              "skX" : -134.81020000000001,
+                              "skY" : -134.81020000000001,
+                              "x" : 68.145624200582503,
+                              "y" : -6.9408900204300883
+                           },
+                           "type" : "boundingBox",
+                           "vertices" : [
+                              34.475625101476915,
+                              -63.281250186264515,
+                              65.336625192314386,
+                              -32.460750095546238,
+                              -27.165375079959645,
+                              61.661250181496143,
+                              -72.646875213831663,
+                              34.08075010031461
+                           ]
+                        }
+                     ],
+                     "name" : "zj4_boundingBox"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              13,
+                              -0.94112457105755298,
+                              0.33805996768581803,
+                              -0.33805996768581803,
+                              -0.94112457105755298,
+                              -179.90100052952769,
+                              -107.00100031495091
+                           ],
+                           "edges" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0 ],
+                           "height" : 31.590000092983246,
+                           "name" : "13-2/jzd",
+                           "path" : "13-2/jzd",
+                           "slotPose" : [
+                              1.0000000000000002,
+                              1.1102230246251563e-16,
+                              -1.1102230246251563e-16,
+                              1.0000000000000002,
+                              -193.9950005710125,
+                              -107.73000031709671
+                           ],
+                           "transform" : {
+                              "skX" : -160.2413,
+                              "skY" : -160.2413,
+                              "x" : 13.017753038316966,
+                              "y" : 5.4507330160439018
+                           },
+                           "triangles" : [ 4, 5, 3, 5, 2, 3, 5, 0, 2, 0, 1, 2 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0,
+                              0.38333,
+                              0,
+                              1,
+                              0.67023999999999995,
+                              1,
+                              1,
+                              0.68718000000000001,
+                              1,
+                              0,
+                              0.57857000000000003,
+                              0
+                           ],
+                           "vertices" : [
+                              -34.020000100135803,
+                              -3.6855000108480453,
+                              -34.020000100135803,
+                              15.795000046491623,
+                              11.583000034093857,
+                              15.795000046491623,
+                              34.020000100135803,
+                              5.9130000174045563,
+                              34.020000100135803,
+                              -15.795000046491623,
+                              5.3460000157356262,
+                              -15.795000046491623
+                           ],
+                           "weights" : [ 1, 13, 1, 1, 13, 1, 1, 13, 1, 1, 13, 1, 1, 13, 1, 1, 13, 1 ],
+                           "width" : 68.040000200271606
+                        }
+                     ],
+                     "name" : "jzd"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [ 7, 1, 0, 0, 1, 67.068000197410583, -159.20550046861172 ],
+                           "edges" : [ 0, 1, 1, 3, 3, 2, 2, 0 ],
+                           "height" : 189.54000055789948,
+                           "name" : "13-2/gm1",
+                           "path" : "13-2/gm1",
+                           "slotPose" : [ 1, 0, 0, 1, 82.215000241994858, -161.59500047564507 ],
+                           "transform" : {
+                              "x" : 15.147000044584274,
+                              "y" : -2.3895000070333481
+                           },
+                           "triangles" : [ 1, 0, 3, 0, 2, 3 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [ 0, 0, 1, 0, 0, 1, 1, 1 ],
+                           "vertices" : [
+                              -22.680000066757202,
+                              -94.770000278949738,
+                              22.680000066757202,
+                              -94.770000278949738,
+                              -22.680000066757202,
+                              94.770000278949738,
+                              22.680000066757202,
+                              94.770000278949738
+                           ],
+                           "weights" : [ 1, 7, 1, 1, 7, 1, 1, 7, 1, 1, 7, 1 ],
+                           "width" : 45.360000133514404
+                        }
+                     ],
+                     "name" : "gm1"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              12,
+                              0.90275587265820001,
+                              -0.43015326847663432,
+                              0.43015326847663393,
+                              0.90275587265820001,
+                              -231.01200067996979,
+                              -105.62400031089783
+                           ],
+                           "edges" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 0 ],
+                           "height" : 28.350000083446503,
+                           "name" : "13-2/zjz",
+                           "path" : "13-2/zjz",
+                           "slotPose" : [
+                              1,
+                              -1.6653345369377348e-16,
+                              -1.1102230246251563e-16,
+                              1.0000000000000002,
+                              -223.15500065684319,
+                              -106.11000031232831
+                           ],
+                           "transform" : {
+                              "skX" : 25.4773,
+                              "skY" : 25.4773,
+                              "x" : 7.3019880214929573,
+                              "y" : 2.9409480086565014
+                           },
+                           "triangles" : [ 4, 3, 2, 1, 4, 2, 1, 7, 4, 6, 5, 4, 7, 6, 4, 0, 7, 1 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0,
+                              0.10714,
+                              0.48235,
+                              0,
+                              1,
+                              0,
+                              1,
+                              0.73856999999999995,
+                              0.78676000000000001,
+                              0.81000000000000005,
+                              0.76175999999999999,
+                              1,
+                              0.14559,
+                              1,
+                              0,
+                              0.69857000000000002
+                           ],
+                           "vertices" : [
+                              -13.770000040531158,
+                              -11.137500032782555,
+                              -0.48600000143051147,
+                              -14.175000041723251,
+                              13.770000040531158,
+                              -14.175000041723251,
+                              13.770000040531158,
+                              6.7635000199079514,
+                              7.8975000232458115,
+                              8.7885000258684158,
+                              7.2090000212192535,
+                              14.175000041723251,
+                              -9.7605000287294388,
+                              14.175000041723251,
+                              -13.770000040531158,
+                              5.6295000165700912
+                           ],
+                           "weights" : [
+                              1,
+                              12,
+                              1,
+                              1,
+                              12,
+                              1,
+                              1,
+                              12,
+                              1,
+                              1,
+                              12,
+                              1,
+                              1,
+                              12,
+                              1,
+                              1,
+                              12,
+                              1,
+                              1,
+                              12,
+                              1,
+                              1,
+                              12,
+                              1
+                           ],
+                           "width" : 27.540000081062317
+                        }
+                     ],
+                     "name" : "zjz"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "zjz_boundingBox",
+                           "path" : "zjz_boundingBox",
+                           "subType" : "polygon",
+                           "transform" : {
+                              "skX" : 25.4773,
+                              "skY" : 25.4773,
+                              "x" : 6.3788310187757009,
+                              "y" : 0.82992600244283676
+                           },
+                           "type" : "boundingBox",
+                           "vertices" : [
+                              9.1935000270605034,
+                              -12.01837503537535,
+                              17.172000050544753,
+                              6.773625019937751,
+                              -9.0720000267028933,
+                              13.496625039726503,
+                              -17.29350005090236,
+                              -8.2518750242889034
+                           ]
+                        }
+                     ],
+                     "name" : "zjz_boundingBox"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              6,
+                              -0.70469709673706016,
+                              -0.70950828173486347,
+                              0.70950828173486347,
+                              -0.70469709673706016,
+                              115.87050034105779,
+                              -166.9815004914999
+                           ],
+                           "edges" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 0 ],
+                           "height" : 156.33000046014786,
+                           "name" : "13-2/zj3",
+                           "path" : "13-2/zj3",
+                           "slotPose" : [
+                              0.99999999999999978,
+                              0,
+                              0,
+                              0.99999999999999978,
+                              68.445000201463714,
+                              -199.2600005865097
+                           ],
+                           "transform" : {
+                              "skX" : 134.80510000000001,
+                              "skY" : 134.80510000000001,
+                              "x" : 56.322459165781737,
+                              "y" : -10.902195032089949
+                           },
+                           "triangles" : [ 7, 6, 4, 3, 7, 4, 6, 5, 4, 2, 7, 3, 8, 7, 2, 1, 8, 2, 0, 8, 1 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0,
+                              0,
+                              0.14051,
+                              0,
+                              0.47753000000000001,
+                              0.23419999999999999,
+                              0.61994000000000005,
+                              0.24351999999999999,
+                              1,
+                              0.45828999999999998,
+                              1,
+                              1.0002599999999999,
+                              0.73987000000000003,
+                              1.0002599999999999,
+                              0.27784999999999999,
+                              0.46294999999999997,
+                              0.00032000000000000003,
+                              0.19223000000000001
+                           ],
+                           "vertices" : [
+                              -63.990000188350677,
+                              -78.165000230073929,
+                              -46.008000135421753,
+                              -78.165000230073929,
+                              -2.8755000084638596,
+                              -41.553000122308731,
+                              15.349500045180321,
+                              -40.095000118017197,
+                              63.990000188350677,
+                              -6.5205000191926965,
+                              63.990000188350677,
+                              78.205500230193138,
+                              30.699000090360641,
+                              78.205500230193138,
+                              -28.431000083684921,
+                              -5.7915000170469284,
+                              -63.949500188231468,
+                              -48.114000141620636
+                           ],
+                           "weights" : [
+                              1,
+                              6,
+                              1,
+                              1,
+                              6,
+                              1,
+                              1,
+                              6,
+                              1,
+                              1,
+                              6,
+                              1,
+                              1,
+                              6,
+                              1,
+                              1,
+                              6,
+                              1,
+                              1,
+                              6,
+                              1,
+                              1,
+                              6,
+                              1,
+                              1,
+                              6,
+                              1
+                           ],
+                           "width" : 127.98000037670135
+                        }
+                     ],
+                     "name" : "zj3"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "13-2/zddd",
+                           "path" : "13-2/zddd",
+                           "transform" : {
+                              "skX" : 90,
+                              "skY" : 90,
+                              "x" : 36.693000108003616,
+                              "y" : -78.69150023162365
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "zddd"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "zj1_boundingBox",
+                           "path" : "zj1_boundingBox",
+                           "subType" : "polygon",
+                           "transform" : {
+                              "skX" : -151.16300000000001,
+                              "skY" : -151.16300000000001,
+                              "x" : 20.896299061506987,
+                              "y" : 2.5546590075194837
+                           },
+                           "type" : "boundingBox",
+                           "vertices" : [
+                              29.540700086951261,
+                              -5.8563000172376851,
+                              26.30070007741454,
+                              25.004700073599803,
+                              -32.140800094604494,
+                              25.004700073599832,
+                              -32.140800094604515,
+                              -13.956300041079496,
+                              8.4402000248432127,
+                              -30.196800088882451
+                           ]
+                        }
+                     ],
+                     "name" : "zj1_boundingBox"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "zj3_boundingBox",
+                           "path" : "zj3_boundingBox",
+                           "subType" : "polygon",
+                           "transform" : {
+                              "skX" : 134.80510000000001,
+                              "skY" : 134.80510000000001,
+                              "x" : 76.022469223767516,
+                              "y" : -5.46361201608181
+                           },
+                           "type" : "boundingBox",
+                           "vertices" : [
+                              102.24225030094385,
+                              45.835875134915113,
+                              50.321250148117542,
+                              89.656875263899565,
+                              -97.382250286638737,
+                              -49.906125146895661,
+                              -55.181250162422657,
+                              -85.586625251919003
+                           ]
+                        }
+                     ],
+                     "name" : "zj3_boundingBox"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              10,
+                              -0.87599563735146746,
+                              0.48231902651792191,
+                              -0.48231902651792191,
+                              -0.87599563735146746,
+                              -121.98600035905838,
+                              -134.25750039517879
+                           ],
+                           "edges" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 0 ],
+                           "height" : 38.070000112056732,
+                           "name" : "13-2/zj1",
+                           "path" : "13-2/zj1",
+                           "slotPose" : [
+                              1,
+                              1.6653345369377348e-16,
+                              -1.6653345369377348e-16,
+                              1,
+                              -134.05500039458275,
+                              -127.17000037431717
+                           ],
+                           "transform" : {
+                              "skX" : -151.16300000000001,
+                              "skY" : -151.16300000000001,
+                              "x" : 13.990806041181088,
+                              "y" : -0.38750400114059447
+                           },
+                           "triangles" : [ 2, 5, 3, 3, 5, 4, 0, 7, 5, 0, 5, 2, 1, 0, 2, 7, 6, 5 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0,
+                              0.36808999999999997,
+                              0.14052000000000001,
+                              0,
+                              0.77844999999999998,
+                              0,
+                              1,
+                              0.21063999999999999,
+                              1,
+                              0.81383000000000005,
+                              0.55430999999999997,
+                              1,
+                              0.19309999999999999,
+                              1,
+                              0,
+                              0.69574000000000003
+                           ],
+                           "vertices" : [
+                              -23.490000069141388,
+                              -5.0220000147819519,
+                              -16.888500049710274,
+                              -19.035000056028366,
+                              13.081500038504599,
+                              -19.035000056028366,
+                              23.490000069141388,
+                              -11.016000032424927,
+                              23.490000069141388,
+                              11.94750003516674,
+                              2.5515000075101852,
+                              19.035000056028366,
+                              -14.418000042438507,
+                              19.035000056028366,
+                              -23.490000069141388,
+                              7.4520000219345084
+                           ],
+                           "weights" : [
+                              1,
+                              10,
+                              1,
+                              1,
+                              10,
+                              1,
+                              1,
+                              10,
+                              1,
+                              1,
+                              10,
+                              1,
+                              1,
+                              10,
+                              1,
+                              1,
+                              10,
+                              1,
+                              1,
+                              10,
+                              1,
+                              1,
+                              10,
+                              1
+                           ],
+                           "width" : 46.980000138282776
+                        }
+                     ],
+                     "name" : "zj1"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "zj2_boundingBox",
+                           "path" : "zj2_boundingBox",
+                           "subType" : "polygon",
+                           "transform" : {
+                              "skX" : -130.14779999999999,
+                              "skY" : -130.14779999999999,
+                              "x" : 18.282915053814651,
+                              "y" : -0.89091900262236601
+                           },
+                           "type" : "boundingBox",
+                           "vertices" : [
+                              -9.7503750286996365,
+                              -38.525625113397844,
+                              -37.33087510988117,
+                              -4.4651250131428206,
+                              0.010125000029798869,
+                              49.075875144451878,
+                              47.071125138551011,
+                              -6.0851250179112153
+                           ]
+                        }
+                     ],
+                     "name" : "zj2_boundingBox"
+                  }
+               ]
+            }
+         ],
+         "slot" : [
+            {
+               "color" : {},
+               "name" : "gm1",
+               "parent" : "gm1"
+            },
+            {
+               "color" : {},
+               "name" : "zm",
+               "parent" : "zm",
+               "z" : 1
+            },
+            {
+               "color" : {},
+               "name" : "zj3",
+               "parent" : "zj3",
+               "z" : 2
+            },
+            {
+               "color" : {},
+               "name" : "gm",
+               "parent" : "gm",
+               "z" : 3
+            },
+            {
+               "color" : {},
+               "name" : "zj4",
+               "parent" : "zj4",
+               "z" : 4
+            },
+            {
+               "color" : {},
+               "name" : "zj2",
+               "parent" : "zj2",
+               "z" : 5
+            },
+            {
+               "color" : {},
+               "name" : "zj1",
+               "parent" : "zj1",
+               "z" : 6
+            },
+            {
+               "color" : {},
+               "name" : "jzd",
+               "parent" : "jzd",
+               "z" : 7
+            },
+            {
+               "color" : {},
+               "name" : "st",
+               "parent" : "st",
+               "z" : 8
+            },
+            {
+               "color" : {},
+               "name" : "zjz",
+               "parent" : "zjz",
+               "z" : 9
+            },
+            {
+               "color" : {},
+               "name" : "yjz",
+               "parent" : "yjz1",
+               "z" : 10
+            },
+            {
+               "color" : {},
+               "name" : "zddd",
+               "parent" : "zddd",
+               "z" : 11
+            },
+            {
+               "color" : {},
+               "name" : "ym",
+               "parent" : "ym",
+               "z" : 12
+            },
+            {
+               "color" : {},
+               "name" : "zj3_boundingBox",
+               "parent" : "zj3",
+               "z" : 13
+            },
+            {
+               "color" : {},
+               "name" : "zj4_boundingBox",
+               "parent" : "zj4",
+               "z" : 14
+            },
+            {
+               "color" : {},
+               "name" : "zj2_boundingBox",
+               "parent" : "zj2",
+               "z" : 15
+            },
+            {
+               "color" : {},
+               "name" : "zj1_boundingBox",
+               "parent" : "zj1",
+               "z" : 16
+            },
+            {
+               "color" : {},
+               "name" : "zjz_boundingBox",
+               "parent" : "zjz",
+               "z" : 17
+            }
+         ],
+         "type" : "Armature"
+      }
+   ],
+   "frameRate" : 24,
+   "isGlobal" : 0,
+   "name" : "b1_p13_2",
+   "version" : "5.0"
+}

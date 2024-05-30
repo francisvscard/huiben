@@ -1,0 +1,15 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 67,
+         "name" : "1/dyz",
+         "width" : 594,
+         "x" : 0,
+         "y" : 0
+      }
+   ],
+   "height" : 105,
+   "imagePath" : "b1_p8_6_tex.png",
+   "name" : "b1_p8_6",
+   "width" : 831
+}

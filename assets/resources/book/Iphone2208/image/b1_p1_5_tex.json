@@ -1,0 +1,155 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 251,
+         "name" : "2/l4",
+         "width" : 268,
+         "x" : 395,
+         "y" : 0
+      },
+      {
+         "height" : 189,
+         "name" : "2/l3",
+         "width" : 116,
+         "x" : 596,
+         "y" : 676
+      },
+      {
+         "height" : 98,
+         "name" : "2/b4",
+         "width" : 149,
+         "x" : 254,
+         "y" : 677
+      },
+      {
+         "height" : 61,
+         "name" : "2/b3",
+         "width" : 57,
+         "x" : 132,
+         "y" : 609
+      },
+      {
+         "height" : 144,
+         "name" : "2/yyan2",
+         "width" : 154,
+         "x" : 596,
+         "y" : 530
+      },
+      {
+         "height" : 144,
+         "name" : "2/yyan0",
+         "width" : 154,
+         "x" : 440,
+         "y" : 525
+      },
+      {
+         "height" : 144,
+         "name" : "2/yyan1",
+         "width" : 154,
+         "x" : 440,
+         "y" : 671
+      },
+      {
+         "height" : 110,
+         "name" : "2/b2",
+         "width" : 51,
+         "x" : 753,
+         "y" : 530
+      },
+      {
+         "height" : 174,
+         "name" : "2/zyan1",
+         "width" : 130,
+         "x" : 196,
+         "y" : 345
+      },
+      {
+         "height" : 174,
+         "name" : "2/zyan2",
+         "width" : 130,
+         "x" : 665,
+         "y" : 0
+      },
+      {
+         "height" : 174,
+         "name" : "2/zyan0",
+         "width" : 130,
+         "x" : 0,
+         "y" : 609
+      },
+      {
+         "height" : 30,
+         "name" : "2/b1",
+         "width" : 23,
+         "x" : 753,
+         "y" : 642
+      },
+      {
+         "height" : 274,
+         "name" : "2/zb",
+         "width" : 195,
+         "x" : 631,
+         "y" : 254
+      },
+      {
+         "height" : 342,
+         "name" : "2/ss",
+         "width" : 392,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 263,
+         "name" : "2/p",
+         "width" : 194,
+         "x" : 0,
+         "y" : 345
+      },
+      {
+         "height" : 98,
+         "name" : "2/yya",
+         "width" : 39,
+         "x" : 328,
+         "y" : 345
+      },
+      {
+         "height" : 162,
+         "name" : "2/zs",
+         "width" : 119,
+         "x" : 132,
+         "y" : 677
+      },
+      {
+         "height" : 269,
+         "name" : "2/l2",
+         "width" : 234,
+         "x" : 395,
+         "y" : 254
+      },
+      {
+         "height" : 183,
+         "name" : "2/l1",
+         "width" : 101,
+         "x" : 715,
+         "y" : 676
+      },
+      {
+         "height" : 150,
+         "name" : "2/yb",
+         "width" : 242,
+         "x" : 196,
+         "y" : 525
+      },
+      {
+         "height" : 139,
+         "name" : "2/ys",
+         "width" : 125,
+         "x" : 0,
+         "y" : 785
+      }
+   ],
+   "height" : 1660,
+   "imagePath" : "b1_p1_5_tex.png",
+   "name" : "b1_p1_5",
+   "width" : 831
+}

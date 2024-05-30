@@ -1,0 +1,43 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 24,
+         "name" : "3/q5",
+         "width" : 104,
+         "x" : 624,
+         "y" : 232
+      },
+      {
+         "height" : 36,
+         "name" : "3/q4",
+         "width" : 160,
+         "x" : 462,
+         "y" : 232
+      },
+      {
+         "height" : 189,
+         "name" : "3/q3",
+         "width" : 278,
+         "x" : 462,
+         "y" : 0
+      },
+      {
+         "height" : 264,
+         "name" : "3/q2",
+         "width" : 460,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 38,
+         "name" : "3/q1",
+         "width" : 332,
+         "x" : 462,
+         "y" : 191
+      }
+   ],
+   "height" : 416,
+   "imagePath" : "b1_p2_10_tex.png",
+   "name" : "b1_p2_10",
+   "width" : 831
+}

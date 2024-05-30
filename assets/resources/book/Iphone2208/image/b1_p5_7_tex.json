@@ -1,0 +1,71 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 438,
+         "name" : "5-1/st",
+         "width" : 363,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 225,
+         "name" : "5-1/yb",
+         "width" : 194,
+         "x" : 512,
+         "y" : 440
+      },
+      {
+         "height" : 289,
+         "name" : "5-1/yy",
+         "width" : 133,
+         "x" : 366,
+         "y" : 0
+      },
+      {
+         "height" : 298,
+         "name" : "5-1/zb",
+         "width" : 154,
+         "x" : 356,
+         "y" : 440
+      },
+      {
+         "height" : 274,
+         "name" : "5-1/t",
+         "width" : 353,
+         "x" : 0,
+         "y" : 440
+      },
+      {
+         "height" : 111,
+         "name" : "5-1/y2",
+         "width" : 200,
+         "x" : 366,
+         "y" : 292
+      },
+      {
+         "height" : 116,
+         "name" : "5-1/y1",
+         "width" : 200,
+         "x" : 512,
+         "y" : 668
+      },
+      {
+         "height" : 111,
+         "name" : "5-1/y3",
+         "width" : 200,
+         "x" : 0,
+         "y" : 716
+      },
+      {
+         "height" : 212,
+         "name" : "5-1/g",
+         "width" : 173,
+         "x" : 501,
+         "y" : 0
+      }
+   ],
+   "height" : 831,
+   "imagePath" : "b1_p5_7_tex.png",
+   "name" : "b1_p5_7",
+   "width" : 831
+}

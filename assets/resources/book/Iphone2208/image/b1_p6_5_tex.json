@@ -1,0 +1,113 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 127,
+         "name" : "04",
+         "width" : 839,
+         "x" : 1274,
+         "y" : 2807
+      },
+      {
+         "height" : 166,
+         "name" : "q/hdm",
+         "width" : 1271,
+         "x" : 0,
+         "y" : 2807
+      },
+      {
+         "height" : 933,
+         "name" : "q/q3",
+         "width" : 1685,
+         "x" : 0,
+         "y" : 936
+      },
+      {
+         "height" : 933,
+         "name" : "q/q2",
+         "width" : 1685,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 933,
+         "name" : "q/q1",
+         "width" : 1685,
+         "x" : 0,
+         "y" : 1871
+      },
+      {
+         "height" : 160,
+         "name" : "q/fs3",
+         "width" : 151,
+         "x" : 1274,
+         "y" : 2937
+      },
+      {
+         "height" : 156,
+         "name" : "q/fs2",
+         "width" : 144,
+         "x" : 1427,
+         "y" : 2937
+      },
+      {
+         "height" : 130,
+         "name" : "q/fs1",
+         "width" : 115,
+         "x" : 1742,
+         "y" : 2937
+      },
+      {
+         "height" : 29,
+         "name" : "q/l7",
+         "width" : 72,
+         "x" : 1926,
+         "y" : 2937
+      },
+      {
+         "height" : 91,
+         "name" : "q/l6",
+         "width" : 151,
+         "x" : 1573,
+         "y" : 3038
+      },
+      {
+         "height" : 54,
+         "name" : "q/l5",
+         "width" : 112,
+         "x" : 1427,
+         "y" : 3095
+      },
+      {
+         "height" : 158,
+         "name" : "q/l4",
+         "width" : 274,
+         "x" : 2115,
+         "y" : 2807
+      },
+      {
+         "height" : 34,
+         "name" : "q/l3",
+         "width" : 64,
+         "x" : 1859,
+         "y" : 2937
+      },
+      {
+         "height" : 99,
+         "name" : "q/l2",
+         "width" : 166,
+         "x" : 1573,
+         "y" : 2937
+      },
+      {
+         "height" : 25,
+         "name" : "q/l1",
+         "width" : 49,
+         "x" : 2000,
+         "y" : 2937
+      }
+   ],
+   "height" : 3319,
+   "imagePath" : "b1_p6_5_tex.png",
+   "name" : "b1_p6_5",
+   "width" : 3319
+}

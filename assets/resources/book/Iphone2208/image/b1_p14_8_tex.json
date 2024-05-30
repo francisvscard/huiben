@@ -1,0 +1,127 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 130,
+         "name" : "5/zxt",
+         "width" : 98,
+         "x" : 154,
+         "y" : 0
+      },
+      {
+         "height" : 41,
+         "name" : "5/zj",
+         "width" : 82,
+         "x" : 174,
+         "y" : 219
+      },
+      {
+         "height" : 125,
+         "name" : "5/xs",
+         "width" : 172,
+         "x" : 0,
+         "y" : 183
+      },
+      {
+         "height" : 84,
+         "name" : "5/ty1",
+         "width" : 125,
+         "x" : 263,
+         "y" : 310
+      },
+      {
+         "height" : 34,
+         "name" : "5/zsz",
+         "width" : 31,
+         "x" : 174,
+         "y" : 183
+      },
+      {
+         "height" : 99,
+         "name" : "5/sb",
+         "width" : 153,
+         "x" : 0,
+         "y" : 310
+      },
+      {
+         "height" : 102,
+         "name" : "5/t",
+         "width" : 105,
+         "x" : 156,
+         "y" : 310
+      },
+      {
+         "height" : 180,
+         "name" : "5/ss",
+         "width" : 152,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 90,
+         "name" : "5/zxb",
+         "width" : 80,
+         "x" : 255,
+         "y" : 127
+      },
+      {
+         "height" : 50,
+         "name" : "5/zs",
+         "width" : 57,
+         "x" : 259,
+         "y" : 219
+      },
+      {
+         "height" : 124,
+         "name" : "5/zdb",
+         "width" : 88,
+         "x" : 255,
+         "y" : 0
+      },
+      {
+         "height" : 12,
+         "name" : "5/z",
+         "width" : 13,
+         "x" : 235,
+         "y" : 200
+      },
+      {
+         "height" : 15,
+         "name" : "5/yan2",
+         "width" : 12,
+         "x" : 208,
+         "y" : 197
+      },
+      {
+         "height" : 15,
+         "name" : "5/yan0",
+         "width" : 12,
+         "x" : 235,
+         "y" : 183
+      },
+      {
+         "height" : 15,
+         "name" : "5/yan1",
+         "width" : 12,
+         "x" : 221,
+         "y" : 197
+      },
+      {
+         "height" : 12,
+         "name" : "5/m",
+         "width" : 16,
+         "x" : 208,
+         "y" : 183
+      },
+      {
+         "height" : 48,
+         "name" : "5/mz",
+         "width" : 89,
+         "x" : 154,
+         "y" : 132
+      }
+   ],
+   "height" : 416,
+   "imagePath" : "b1_p14_8_tex.png",
+   "name" : "b1_p14_8",
+   "width" : 416
+}

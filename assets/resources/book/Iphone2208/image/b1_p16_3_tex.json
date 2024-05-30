@@ -1,0 +1,71 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 142,
+         "name" : "3/x2",
+         "width" : 77,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 106,
+         "name" : "3/x1",
+         "width" : 73,
+         "x" : 80,
+         "y" : 0
+      },
+      {
+         "height" : 3,
+         "name" : "3/6",
+         "width" : 21,
+         "x" : 17,
+         "y" : 173
+      },
+      {
+         "height" : 8,
+         "name" : "3/5",
+         "width" : 17,
+         "x" : 0,
+         "y" : 188
+      },
+      {
+         "height" : 32,
+         "name" : "3/4",
+         "width" : 14,
+         "x" : 0,
+         "y" : 144
+      },
+      {
+         "height" : 40,
+         "name" : "3/st",
+         "width" : 63,
+         "x" : 80,
+         "y" : 108
+      },
+      {
+         "height" : 8,
+         "name" : "3/3",
+         "width" : 30,
+         "x" : 35,
+         "y" : 144
+      },
+      {
+         "height" : 8,
+         "name" : "3/2",
+         "width" : 26,
+         "x" : 0,
+         "y" : 179
+      },
+      {
+         "height" : 26,
+         "name" : "3/1",
+         "width" : 17,
+         "x" : 17,
+         "y" : 144
+      }
+   ],
+   "height" : 209,
+   "imagePath" : "b1_p16_3_tex.png",
+   "name" : "b1_p16_3",
+   "width" : 209
+}

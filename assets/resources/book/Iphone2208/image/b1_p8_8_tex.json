@@ -1,0 +1,57 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 520,
+         "name" : "2/st",
+         "width" : 470,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 360,
+         "name" : "2/t",
+         "width" : 439,
+         "x" : 473,
+         "y" : 0
+      },
+      {
+         "height" : 435,
+         "name" : "2/yb",
+         "width" : 157,
+         "x" : 473,
+         "y" : 362
+      },
+      {
+         "height" : 93,
+         "name" : "2/y2",
+         "width" : 162,
+         "x" : 242,
+         "y" : 523
+      },
+      {
+         "height" : 82,
+         "name" : "2/y1",
+         "width" : 160,
+         "x" : 242,
+         "y" : 618
+      },
+      {
+         "height" : 70,
+         "name" : "2/y0",
+         "width" : 159,
+         "x" : 242,
+         "y" : 703
+      },
+      {
+         "height" : 266,
+         "name" : "2/zb",
+         "width" : 239,
+         "x" : 0,
+         "y" : 523
+      }
+   ],
+   "height" : 831,
+   "imagePath" : "b1_p8_8_tex.png",
+   "name" : "b1_p8_8",
+   "width" : 1660
+}

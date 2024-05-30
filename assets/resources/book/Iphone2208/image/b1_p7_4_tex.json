@@ -1,0 +1,29 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 361,
+         "name" : "777777/y4",
+         "width" : 605,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 277,
+         "name" : "777777/y3",
+         "width" : 545,
+         "x" : 0,
+         "y" : 363
+      },
+      {
+         "height" : 251,
+         "name" : "777777/y2",
+         "width" : 546,
+         "x" : 0,
+         "y" : 643
+      }
+   ],
+   "height" : 1660,
+   "imagePath" : "b1_p7_4_tex.png",
+   "name" : "b1_p7_4",
+   "width" : 831
+}

@@ -1,0 +1,554 @@
+{
+   "armature" : [
+      {
+         "aabb" : {
+            "height" : 450.19800132513041,
+            "width" : 835.19100245833386,
+            "x" : -423.91350124776358,
+            "y" : -227.46825066953897
+         },
+         "animation" : [
+            {
+               "bone" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 60,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "root"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 60,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "bj"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "6"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "5"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "3"
+                  }
+               ],
+               "duration" : 60,
+               "ffd" : [],
+               "frame" : [],
+               "ik" : [],
+               "name" : "z0",
+               "playTimes" : 0,
+               "slot" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "color" : {
+                              "aM" : 75
+                           },
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "6"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "color" : {
+                              "aM" : 28
+                           },
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "5"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "color" : {
+                              "aM" : 62
+                           },
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "color" : {
+                              "aM" : 27
+                           },
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "color" : {
+                              "aM" : 67
+                           },
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "color" : {
+                              "aM" : 28
+                           },
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "1"
+                  }
+               ]
+            }
+         ],
+         "bone" : [
+            {
+               "name" : "root",
+               "transform" : {
+                  "scX" : 1.2345678976006922,
+                  "scY" : 1.2345678976006922,
+                  "x" : 9.0,
+                  "y" : 3.9999999999999996
+               }
+            },
+            {
+               "length" : 330.4800009727478,
+               "name" : "bj",
+               "parent" : "root",
+               "transform" : {
+                  "x" : -137.70000040531158,
+                  "y" : -251.91000074148178
+               }
+            },
+            {
+               "length" : 51.840000152587891,
+               "name" : "2",
+               "parent" : "bj",
+               "transform" : {
+                  "skX" : 90,
+                  "skY" : 90,
+                  "x" : -96.997500285506248,
+                  "y" : 42.687000125646591
+               }
+            },
+            {
+               "length" : 43.740000128746033,
+               "name" : "6",
+               "parent" : "bj",
+               "transform" : {
+                  "skX" : -179.25729999999999,
+                  "skY" : -179.25729999999999,
+                  "x" : 149.89050044119358,
+                  "y" : 54.877500161528587
+               }
+            },
+            {
+               "length" : 43.740000128746033,
+               "name" : "4",
+               "parent" : "bj",
+               "transform" : {
+                  "skX" : 1.4675,
+                  "skY" : 1.4675,
+                  "x" : 385.68150113523006,
+                  "y" : 53.74350015819072
+               }
+            },
+            {
+               "length" : 72.090000212192535,
+               "name" : "1",
+               "parent" : "2",
+               "transform" : {
+                  "skX" : -1.3113999999999999,
+                  "skY" : -1.3113999999999999,
+                  "x" : 23.247000068426132,
+                  "y" : 12.150000035762787
+               }
+            },
+            {
+               "length" : 47.790000140666962,
+               "name" : "5",
+               "parent" : "6",
+               "transform" : {
+                  "skX" : -90.742699999999999,
+                  "skY" : -90.742699999999999,
+                  "x" : 0.50973300150036804,
+                  "y" : -4.4214660130143164
+               }
+            },
+            {
+               "length" : 64.800000190734863,
+               "name" : "3",
+               "parent" : "4",
+               "transform" : {
+                  "skX" : 88.994299999999996,
+                  "skY" : 88.994299999999996,
+                  "x" : 2.2287960065603256,
+                  "y" : 1.6039620047211647
+               }
+            }
+         ],
+         "canvas" : {
+            "height" : 444.690001308918,
+            "width" : 828.63000243902206,
+            "x" : -7.2900000214576721,
+            "y" : -3.2400000095367432
+         },
+         "defaultActions" : [
+            {
+               "gotoAndPlay" : "z0"
+            }
+         ],
+         "frameRate" : 24,
+         "ik" : [],
+         "name" : "b1_p14_7_arm0",
+         "skin" : [
+            {
+               "name" : "",
+               "slot" : [
+                  {
+                     "display" : [
+                        {
+                           "name" : "root_boundingBox",
+                           "path" : "root_boundingBox",
+                           "subType" : "polygon",
+                           "transform" : {
+                              "x" : -6.3180000185966492,
+                              "y" : -2.3692500069737434
+                           },
+                           "type" : "boundingBox",
+                           "vertices" : [
+                              -414.96300122141844,
+                              -223.25625065714121,
+                              419.17500123381615,
+                              -224.30925066024065,
+                              411.80400121212006,
+                              225.88875066488981,
+                              -416.01600122451782,
+                              221.67675065249205
+                           ]
+                        }
+                     ],
+                     "name" : "root_boundingBox"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "4/1",
+                           "path" : "4/1",
+                           "transform" : {
+                              "skX" : -88.688599999999994,
+                              "skY" : -88.688599999999994,
+                              "x" : 182.13959753611684,
+                              "y" : 10.448757030755282
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "1"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "4/2",
+                           "path" : "4/2",
+                           "transform" : {
+                              "skX" : -90,
+                              "skY" : -90,
+                              "x" : 197.0730005800724,
+                              "y" : 24.50250007212162
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "2"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "4/3",
+                           "path" : "4/3",
+                           "transform" : {
+                              "skX" : -90.461799999999997,
+                              "skY" : -90.461799999999997,
+                              "x" : 194.50311357250808,
+                              "y" : 1.955988005757332
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "3"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "4/4",
+                           "path" : "4/4",
+                           "transform" : {
+                              "skX" : -1.4675,
+                              "skY" : -1.4675,
+                              "x" : -9.5595390281379213,
+                              "y" : 200.90721659135818
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "4"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "4/5",
+                           "path" : "4/5",
+                           "transform" : {
+                              "skX" : -90,
+                              "skY" : -90,
+                              "x" : 190.18800055980682,
+                              "y" : 3.1185000091791153
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "5"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "4/6",
+                           "path" : "4/6",
+                           "transform" : {
+                              "skX" : 179.25729999999999,
+                              "skY" : 179.25729999999999,
+                              "x" : -4.4069670129716396,
+                              "y" : -186.86610955002905
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "6"
+                  }
+               ]
+            }
+         ],
+         "slot" : [
+            {
+               "color" : {},
+               "name" : "6",
+               "parent" : "6"
+            },
+            {
+               "color" : {},
+               "name" : "5",
+               "parent" : "5",
+               "z" : 1
+            },
+            {
+               "color" : {},
+               "name" : "4",
+               "parent" : "4",
+               "z" : 2
+            },
+            {
+               "color" : {},
+               "name" : "3",
+               "parent" : "3",
+               "z" : 3
+            },
+            {
+               "color" : {},
+               "name" : "2",
+               "parent" : "2",
+               "z" : 4
+            },
+            {
+               "color" : {},
+               "name" : "1",
+               "parent" : "1",
+               "z" : 5
+            },
+            {
+               "color" : {},
+               "name" : "root_boundingBox",
+               "parent" : "root",
+               "z" : 6
+            }
+         ],
+         "type" : "Armature"
+      }
+   ],
+   "frameRate" : 24,
+   "isGlobal" : 0,
+   "name" : "b1_p14_7",
+   "version" : "5.0"
+}

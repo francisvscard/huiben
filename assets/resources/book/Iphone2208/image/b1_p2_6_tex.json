@@ -1,0 +1,22 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 904,
+         "name" : "2/2",
+         "width" : 1031,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 904,
+         "name" : "2/1",
+         "width" : 1031,
+         "x" : 0,
+         "y" : 907
+      }
+   ],
+   "height" : 3319,
+   "imagePath" : "b1_p2_6_tex.png",
+   "name" : "b1_p2_6",
+   "width" : 1660
+}

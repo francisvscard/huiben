@@ -1,0 +1,85 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 106,
+         "name" : "2/ys",
+         "width" : 67,
+         "x" : 0,
+         "y" : 278
+      },
+      {
+         "height" : 162,
+         "name" : "2/zs",
+         "width" : 61,
+         "x" : 144,
+         "y" : 168
+      },
+      {
+         "height" : 108,
+         "name" : "2/t",
+         "width" : 141,
+         "x" : 0,
+         "y" : 168
+      },
+      {
+         "height" : 25,
+         "name" : "2/yyan2",
+         "width" : 35,
+         "x" : 106,
+         "y" : 311
+      },
+      {
+         "height" : 31,
+         "name" : "2/yyan",
+         "width" : 39,
+         "x" : 69,
+         "y" : 278
+      },
+      {
+         "height" : 26,
+         "name" : "2/yyan1",
+         "width" : 35,
+         "x" : 69,
+         "y" : 311
+      },
+      {
+         "height" : 7,
+         "name" : "2/zyan2",
+         "width" : 30,
+         "x" : 110,
+         "y" : 301
+      },
+      {
+         "height" : 15,
+         "name" : "2/zyan1",
+         "width" : 32,
+         "x" : 46,
+         "y" : 387
+      },
+      {
+         "height" : 12,
+         "name" : "2/zyane",
+         "width" : 43,
+         "x" : 0,
+         "y" : 387
+      },
+      {
+         "height" : 21,
+         "name" : "2/zyan0",
+         "width" : 31,
+         "x" : 110,
+         "y" : 278
+      },
+      {
+         "height" : 166,
+         "name" : "2/st",
+         "width" : 155,
+         "x" : 0,
+         "y" : 0
+      }
+   ],
+   "height" : 416,
+   "imagePath" : "b1_p6_2_tex.png",
+   "name" : "b1_p6_2",
+   "width" : 416
+}

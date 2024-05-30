@@ -1,0 +1,366 @@
+{
+   "armature" : [
+      {
+         "aabb" : {
+            "height" : 168.48000049591064,
+            "width" : 52.650000154972076,
+            "x" : -51.030000150203705,
+            "y" : -133.24500039219856
+         },
+         "animation" : [
+            {
+               "bone" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "root"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "deng1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "deng2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "g2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "g1"
+                  }
+               ],
+               "duration" : 30,
+               "ffd" : [],
+               "frame" : [],
+               "ik" : [],
+               "name" : "zd",
+               "playTimes" : 0,
+               "slot" : [
+                  {
+                     "frame" : [
+                        {
+                           "color" : {
+                              "aM" : 21
+                           },
+                           "duration" : 15,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "color" : {
+                              "aM" : 21
+                           },
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "g2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "color" : {
+                              "aM" : 12
+                           },
+                           "duration" : 15,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 15,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "color" : {
+                              "aM" : 12
+                           },
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "g1"
+                  }
+               ]
+            }
+         ],
+         "bone" : [
+            {
+               "name" : "root",
+               "transform" : {
+                  "scX" : 1.2345678976006922,
+                  "scY" : 1.2345678976006922,
+                  "x" : 30.0,
+                  "y" : 60.0
+               }
+            },
+            {
+               "length" : 9.7200000286102295,
+               "name" : "deng1",
+               "parent" : "root",
+               "transform" : {
+                  "skX" : -90,
+                  "skY" : -90,
+                  "x" : -22.072500064969063,
+                  "y" : -84.280500248074532
+               }
+            },
+            {
+               "length" : 9.7200000286102295,
+               "name" : "deng2",
+               "parent" : "root",
+               "transform" : {
+                  "skX" : -90,
+                  "skY" : -90,
+                  "x" : -24.664500072598457,
+                  "y" : -12.312000036239624
+               }
+            },
+            {
+               "length" : 5.6700000166893005,
+               "name" : "g2",
+               "parent" : "root",
+               "transform" : {
+                  "x" : -8.4240000247955322,
+                  "y" : -13.608000040054321
+               }
+            },
+            {
+               "length" : 6.4800000190734863,
+               "name" : "g1",
+               "parent" : "root",
+               "transform" : {
+                  "skX" : -5.7106000000000003,
+                  "skY" : -5.7106000000000003,
+                  "x" : -12.312000036239624,
+                  "y" : -82.336500242352486
+               }
+            }
+         ],
+         "canvas" : {
+            "height" : 168.48000049591064,
+            "width" : 52.650000154972076,
+            "x" : -24.300000071525574,
+            "y" : -48.600000143051147
+         },
+         "defaultActions" : [
+            {
+               "gotoAndPlay" : "zd"
+            }
+         ],
+         "frameRate" : 24,
+         "ik" : [],
+         "name" : "b1_p5_2_arm0",
+         "skin" : [
+            {
+               "name" : "",
+               "slot" : [
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-2/g2",
+                           "path" : "5-2/g2",
+                           "transform" : {
+                              "x" : -16.281000047922134,
+                              "y" : 1.8630000054836271
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "g2"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-2/g1",
+                           "path" : "5-2/g1",
+                           "transform" : {
+                              "skX" : 5.7106000000000003,
+                              "skY" : 5.7106000000000003,
+                              "x" : -11.295774033248424,
+                              "y" : -3.4496280101537704
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "g1"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-2/deng2",
+                           "path" : "5-2/deng2",
+                           "transform" : {
+                              "skX" : 90,
+                              "skY" : 90,
+                              "x" : -0.56700000166893005,
+                              "y" : -0.04050000011920929
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "deng2"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "deng1_boundingBox",
+                           "path" : "deng1_boundingBox",
+                           "subType" : "polygon",
+                           "transform" : {
+                              "skX" : 90,
+                              "skY" : 90,
+                              "x" : -34.688250102102757,
+                              "y" : -0.9517500028014183
+                           },
+                           "type" : "boundingBox",
+                           "vertices" : [
+                              -18.164250053465366,
+                              -77.132250227034078,
+                              22.700250066816807,
+                              -73.892250217497335,
+                              20.108250059187412,
+                              78.428250230848789,
+                              -24.644250072538853,
+                              72.596250213682637
+                           ]
+                        }
+                     ],
+                     "name" : "deng1_boundingBox"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-2/deng1",
+                           "path" : "5-2/deng1",
+                           "transform" : {
+                              "skX" : 90,
+                              "skY" : 90,
+                              "x" : 0.36450000107288361,
+                              "y" : -1.822500005364418
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "deng1"
+                  }
+               ]
+            }
+         ],
+         "slot" : [
+            {
+               "color" : {},
+               "name" : "g2",
+               "parent" : "g2"
+            },
+            {
+               "color" : {},
+               "name" : "deng2",
+               "parent" : "deng2",
+               "z" : 1
+            },
+            {
+               "color" : {},
+               "name" : "g1",
+               "parent" : "g1",
+               "z" : 2
+            },
+            {
+               "color" : {},
+               "name" : "deng1",
+               "parent" : "deng1",
+               "z" : 3
+            },
+            {
+               "color" : {},
+               "name" : "deng1_boundingBox",
+               "parent" : "deng1",
+               "z" : 4
+            }
+         ],
+         "type" : "Armature"
+      }
+   ],
+   "frameRate" : 24,
+   "isGlobal" : 0,
+   "name" : "b1_p5_2",
+   "version" : "5.0"
+}

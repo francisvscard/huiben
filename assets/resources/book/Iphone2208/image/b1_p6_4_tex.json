@@ -1,0 +1,22 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 929,
+         "name" : "yan/yan",
+         "width" : 1514,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 907,
+         "name" : "yan/asd",
+         "width" : 434,
+         "x" : 0,
+         "y" : 931
+      }
+   ],
+   "height" : 3319,
+   "imagePath" : "b1_p6_4_tex.png",
+   "name" : "b1_p6_4",
+   "width" : 1660
+}

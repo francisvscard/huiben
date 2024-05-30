@@ -1,0 +1,1773 @@
+{
+   "armature" : [
+      {
+         "aabb" : {
+            "height" : 1132.6068033337592,
+            "width" : 2927.3076086163528,
+            "x" : -1480.5504043579103,
+            "y" : -710.7021020919085
+         },
+         "animation" : [
+            {
+               "bone" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 119,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 1,
+                           "transform" : {}
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "root"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 23,
+                           "transform" : {
+                              "x" : -612.11155860171311,
+                              "y" : 210.37164541921618
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {
+                              "x" : -968.1786172497749,
+                              "y" : 270.47092399611472
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 1,
+                           "transform" : {
+                              "x" : -1617.1493231599809,
+                              "y" : 219.1845102451563
+                           }
+                        },
+                        {
+                           "duration" : 48,
+                           "transform" : {
+                              "x" : 367.98650028314592
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 22,
+                           "transform" : {
+                              "x" : -273.84784640605449,
+                              "y" : 153.27733725116252
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -612.11155860171311,
+                              "y" : 210.37164541921618
+                           }
+                        }
+                     ],
+                     "name" : "h1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 119,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 1,
+                           "transform" : {}
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "bone"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : 181.1010317330599,
+                              "y" : -194.00109177103045
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 1,
+                           "transform" : {
+                              "x" : -390.66967554991248,
+                              "y" : -137.68943800528049
+                           }
+                        },
+                        {
+                           "duration" : 48,
+                           "transform" : {
+                              "x" : 1772.7443620179654,
+                              "y" : -75.716013822865492
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 33,
+                           "transform" : {
+                              "x" : 1120.6704488986254,
+                              "y" : -324.81602735607629
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 28,
+                           "transform" : {
+                              "x" : 694.22858124341974,
+                              "y" : -244.53718631978035
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : 181.1010317330599,
+                              "y" : -194.00109177103045
+                           }
+                        }
+                     ],
+                     "name" : "q1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 27,
+                           "transform" : {
+                              "x" : 1161.6486730192423,
+                              "y" : -226.54417026681901
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 33,
+                           "transform" : {
+                              "x" : 806.42919837367538,
+                              "y" : -87.23596345677376
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 59,
+                           "transform" : {
+                              "x" : 248.6053951317549,
+                              "y" : 59.625396175503724
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 21,
+                           "transform" : {
+                              "x" : -500.18439747226239,
+                              "y" : -211.08697262132168
+                           }
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : 1161.6486730192423,
+                              "y" : -226.54417026681901
+                           }
+                        }
+                     ],
+                     "name" : "h6"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 43,
+                           "transform" : {
+                              "x" : -624.81806103911413,
+                              "y" : 142.50310601944923
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 8,
+                           "transform" : {
+                              "x" : -1318.924753482175,
+                              "y" : 303.84175769433978
+                           }
+                        },
+                        {
+                           "duration" : 68,
+                           "transform" : {
+                              "x" : 850.26523210270409,
+                              "y" : -29.585995287084586
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 21,
+                           "transform" : {
+                              "x" : -283.64703203489785,
+                              "y" : 63.200995386028289
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -624.81806103911413,
+                              "y" : 142.50310601944923
+                           }
+                        }
+                     ],
+                     "name" : "q3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 22,
+                           "transform" : {
+                              "x" : -1036.7049414514781,
+                              "y" : -193.01256776812079
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 1,
+                           "transform" : {
+                              "x" : -1390.1877760919335,
+                              "y" : -266.13211038334373
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 70,
+                           "transform" : {
+                              "x" : 698.10867565484045,
+                              "y" : 206.25665100710393
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 47,
+                           "transform" : {
+                              "x" : -292.53052886104581,
+                              "y" : -39.076797715020184
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -1036.7049414514781,
+                              "y" : -193.01256776812079
+                           }
+                        }
+                     ],
+                     "name" : "h4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 19,
+                           "transform" : {
+                              "x" : -380.84495872099399,
+                              "y" : 131.14606358602049
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 23,
+                           "transform" : {
+                              "x" : -653.07027792227268,
+                              "y" : 214.56427023155689
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 12,
+                           "transform" : {
+                              "x" : -966.12043964371674,
+                              "y" : 454.87079413888455
+                           }
+                        },
+                        {
+                           "duration" : 53,
+                           "transform" : {
+                              "x" : 825.75106803054814,
+                              "y" : -159.5371468695879
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 33,
+                           "transform" : {
+                              "x" : 72.863906614470494,
+                              "y" : -7.8843456232070928
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -380.84495872099399,
+                              "y" : 131.14606358602049
+                           }
+                        }
+                     ],
+                     "name" : "h3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 63,
+                           "transform" : {
+                              "x" : 662.43906194984913,
+                              "y" : -198.64381738469601
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 13,
+                           "transform" : {
+                              "x" : -471.37535418746472,
+                              "y" : -1.8114192053318023
+                           }
+                        },
+                        {
+                           "duration" : 64,
+                           "transform" : {
+                              "x" : 1800.1053196985008,
+                              "y" : 148.39621243679522
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : 662.43906194984913,
+                              "y" : -198.64381738469601
+                           }
+                        }
+                     ],
+                     "name" : "q2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 22,
+                           "transform" : {
+                              "x" : 152.21260844802856,
+                              "y" : -207.29857021017074
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 31,
+                           "transform" : {
+                              "x" : -219.73576384677889,
+                              "y" : -158.71062286715508
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 33,
+                           "transform" : {
+                              "x" : -732.09796055488584,
+                              "y" : -261.06060316841604
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {
+                              "x" : -1222.2653795976639,
+                              "y" : -435.58145408210748
+                           }
+                        },
+                        {
+                           "duration" : 33,
+                           "transform" : {
+                              "x" : 847.97079369595053,
+                              "y" : -420.00729243626591
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "x" : 338.18679459543227,
+                              "y" : -231.59254388167858
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : 152.21260844802856,
+                              "y" : -207.29857021017074
+                           }
+                        }
+                     ],
+                     "name" : "q5"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 33,
+                           "transform" : {
+                              "x" : 82.810253043746954,
+                              "y" : -34.719969702196117
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 26,
+                           "transform" : {
+                              "x" : -566.5305256675482,
+                              "y" : 95.389099480772018
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 34,
+                           "transform" : {
+                              "x" : -1032.3737742387295,
+                              "y" : -13.090701638531684
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 21,
+                           "transform" : {
+                              "x" : -1519.7539508733037,
+                              "y" : -185.12375094490051
+                           }
+                        },
+                        {
+                           "duration" : 26,
+                           "transform" : {
+                              "x" : 626.13622264299397,
+                              "y" : 161.45496767523289
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : 82.810253043746954,
+                              "y" : -34.719969702196117
+                           }
+                        }
+                     ],
+                     "name" : "h2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 3,
+                           "transform" : {
+                              "skX" : -1.0749,
+                              "skY" : -1.0749,
+                              "x" : 165.72438048779966,
+                              "y" : 15.571958445835115
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 24,
+                           "transform" : {
+                              "skX" : -1.2361,
+                              "skY" : -1.2361,
+                              "x" : 130.25914598340989,
+                              "y" : -17.549006451654439
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 29,
+                           "transform" : {
+                              "skX" : -2.5261,
+                              "skY" : -2.5261,
+                              "x" : -235.62245589354035,
+                              "y" : -168.88506529710293
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 43,
+                           "transform" : {
+                              "skX" : -4.0848000000000004,
+                              "skY" : -4.0848000000000004,
+                              "x" : -722.14753172559745,
+                              "y" : -375.02403950386054
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 21,
+                           "transform" : {
+                              "x" : -1209.3833339597466,
+                              "y" : -494.94110545682906
+                           }
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "x" : 431.71399567072388,
+                              "y" : 263.97951917700772
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "skX" : -1.0749,
+                              "skY" : -1.0749,
+                              "x" : 165.72438048779966,
+                              "y" : 15.571958445835115
+                           }
+                        }
+                     ],
+                     "name" : "h5"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 18,
+                           "transform" : {
+                              "x" : -121.50544355764389,
+                              "y" : 0.43558560128211976
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 33,
+                           "transform" : {
+                              "x" : -437.77059248855119,
+                              "y" : -71.324453009939205
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 35,
+                           "transform" : {
+                              "x" : -762.99719264583587,
+                              "y" : -327.55460496413713
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 29,
+                           "transform" : {
+                              "x" : -1383.4238224720241,
+                              "y" : -460.84477095646861
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "x" : -1914.7571264359713,
+                              "y" : -404.18086438968186
+                           }
+                        },
+                        {
+                           "duration" : 14,
+                           "transform" : {
+                              "x" : 131.50674038708212,
+                              "y" : 57.843655370259278
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -121.50544355764389,
+                              "y" : 0.43558560128211976
+                           }
+                        }
+                     ],
+                     "name" : "h7"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 34,
+                           "transform" : {
+                              "x" : -1309.200800653553,
+                              "y" : -98.016026688504226
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 1,
+                           "transform" : {
+                              "x" : -1838.7285174121855,
+                              "y" : 15.449486445474626
+                           }
+                        },
+                        {
+                           "duration" : 70,
+                           "transform" : {
+                              "x" : 185.00302854454517,
+                              "y" : 71.368646610069277
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 35,
+                           "transform" : {
+                              "x" : -761.41348064117437,
+                              "y" : -215.39422863399986
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -1309.200800653553,
+                              "y" : -98.016026688504226
+                           }
+                        }
+                     ],
+                     "name" : "h8"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 21,
+                           "transform" : {
+                              "x" : -862.52506813879006,
+                              "y" : -245.55253752276897
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 40,
+                           "transform" : {
+                              "x" : -1224.8867988053798,
+                              "y" : -247.04462232716082
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 16,
+                           "transform" : {
+                              "x" : -1923.2102864608528,
+                              "y" : -141.38413961615561
+                           }
+                        },
+                        {
+                           "duration" : 42,
+                           "transform" : {
+                              "x" : 173.89319811184407
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 21,
+                           "transform" : {
+                              "x" : -500.1633374722004,
+                              "y" : -142.96940682082177
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -862.52506813879006,
+                              "y" : -245.55253752276897
+                           }
+                        }
+                     ],
+                     "name" : "q4"
+                  }
+               ],
+               "duration" : 140,
+               "ffd" : [],
+               "frame" : [],
+               "ik" : [],
+               "name" : "z1",
+               "playTimes" : 0,
+               "slot" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 34,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 1,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 105,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h8"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 115,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 14,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h7"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 119,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 21,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h6"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 99,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 21,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 20,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h5"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 22,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 1,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 117,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 42,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 12,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 86,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 93,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 21,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 26,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 69,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 1,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 70,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h1"
+                  }
+               ]
+            },
+            {
+               "bone" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "root"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 62,
+                           "transform" : {
+                              "x" : 367.98650028314592
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 26,
+                           "transform" : {
+                              "x" : -183.44011733994483,
+                              "y" : 108.91758992059231
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 24,
+                           "transform" : {
+                              "x" : -601.59633297076232,
+                              "y" : 158.02497406513692
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 23,
+                           "transform" : {
+                              "x" : -987.58673570690155,
+                              "y" : 109.89334832346441
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 45,
+                           "transform" : {
+                              "x" : -1235.1830652356864,
+                              "y" : -49.329518545198439
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -1617.1493231599809,
+                              "y" : -225.5054910637617
+                           }
+                        }
+                     ],
+                     "name" : "h1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "bone"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "transform" : {
+                              "x" : 1772.7443620179654,
+                              "y" : -75.716013822865492
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -218.57409424335955,
+                              "y" : 189.95413735911845
+                           }
+                        }
+                     ],
+                     "name" : "q1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 40,
+                           "transform" : {
+                              "x" : 1281.1338469709397,
+                              "y" : -226.54417026681901
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 50,
+                           "transform" : {
+                              "x" : 806.42919837367538,
+                              "y" : -87.23596345677376
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 90,
+                           "transform" : {
+                              "x" : 248.6053951317549,
+                              "y" : 59.625396175503724
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -500.18439747226239,
+                              "y" : -211.08697262132168
+                           }
+                        }
+                     ],
+                     "name" : "h6"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 40,
+                           "transform" : {
+                              "x" : 850.26523210270409,
+                              "y" : -29.585995287084586
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 50,
+                           "transform" : {
+                              "x" : 281.26569682788852,
+                              "y" : 94.073529876899713
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 50,
+                           "transform" : {
+                              "x" : -498.0450254659653,
+                              "y" : -27.727855281615259
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 40,
+                           "transform" : {
+                              "x" : -1007.4649133654118,
+                              "y" : 181.76853653502465
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -1318.924753482175,
+                              "y" : 303.84175769433978
+                           }
+                        }
+                     ],
+                     "name" : "q3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "transform" : {
+                              "x" : 698.10867565484045,
+                              "y" : 206.25665100710393
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -1452.1288002742529,
+                              "y" : 109.89082112345694
+                           }
+                        }
+                     ],
+                     "name" : "h4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "transform" : {
+                              "x" : 825.75106803054814,
+                              "y" : 118.10247154762745
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -1363.008582411933,
+                              "y" : 127.88396677641869
+                           }
+                        }
+                     ],
+                     "name" : "h3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "transform" : {
+                              "x" : 1914.1533200341942,
+                              "y" : -112.9097883323431
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -568.41335447309018,
+                              "y" : -1.8114192053318023
+                           }
+                        }
+                     ],
+                     "name" : "q2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "transform" : {
+                              "x" : 847.97079369595053,
+                              "y" : 212.05307582416535
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -1275.5789317545893,
+                              "y" : 197.56198138151169
+                           }
+                        }
+                     ],
+                     "name" : "q5"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "transform" : {
+                              "x" : 626.13622264299397,
+                              "y" : 161.45496767523289
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -1519.7539508733037,
+                              "y" : -185.12375094490051
+                           }
+                        }
+                     ],
+                     "name" : "h2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "transform" : {
+                              "x" : 431.71399567072388,
+                              "y" : 263.97951917700772
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -1437.6377058315993,
+                              "y" : -113.75510433483124
+                           }
+                        }
+                     ],
+                     "name" : "h5"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "x" : 131.50674038708212,
+                              "y" : 57.843655370259278
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {
+                              "x" : -121.50544355764389,
+                              "y" : 0.43558560128211976
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 45,
+                           "transform" : {
+                              "x" : -437.77059248855119,
+                              "y" : -71.324453009939205
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 50,
+                           "transform" : {
+                              "x" : -762.99719264583587,
+                              "y" : -327.55460496413713
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 40,
+                           "transform" : {
+                              "x" : -1383.4238224720241,
+                              "y" : -460.84477095646861
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -1914.7571264359713,
+                              "y" : -404.18086438968186
+                           }
+                        }
+                     ],
+                     "name" : "h7"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 40,
+                           "transform" : {
+                              "x" : 185.00302854454517,
+                              "y" : 71.368646610069277
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 50,
+                           "transform" : {
+                              "x" : -202.1470997950077,
+                              "y" : -86.641812255024917
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 47,
+                           "transform" : {
+                              "x" : -780.85477669839861,
+                              "y" : -174.8049341145277
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 43,
+                           "transform" : {
+                              "x" : -1348.9491207705498,
+                              "y" : -313.4422017225981
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -1822.5285173645018,
+                              "y" : -417.41451482863425
+                           }
+                        }
+                     ],
+                     "name" : "h8"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "transform" : {
+                              "x" : 173.89319811184407
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {
+                              "x" : -1923.2102864608528,
+                              "y" : -239.82765190591815
+                           }
+                        }
+                     ],
+                     "name" : "q4"
+                  }
+               ],
+               "duration" : 180,
+               "ffd" : [],
+               "frame" : [],
+               "ik" : [],
+               "name" : "newAnimation_\u590d\u52361",
+               "playTimes" : 0,
+               "slot" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h8"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h7"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h6"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h5"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 180,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "h1"
+                  }
+               ]
+            }
+         ],
+         "bone" : [
+            {
+               "name" : "root",
+               "transform" : {
+                  "scX" : 1.2345678976006922,
+                  "scY" : 1.2345678976006922,
+                  "x" : 20.0,
+                  "y" : 175.99999999999997
+               }
+            },
+            {
+               "length" : 561.16800165176392,
+               "name" : "bone",
+               "parent" : "root",
+               "transform" : {
+                  "skX" : 180,
+                  "skY" : 180,
+                  "x" : 370.3320010900498,
+                  "y" : -74.90880022048951
+               }
+            },
+            {
+               "length" : 109.51200032234193,
+               "name" : "q1",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : 180,
+                  "skY" : 180,
+                  "x" : -319.23720093965528,
+                  "y" : 378.78840111494065
+               }
+            },
+            {
+               "length" : 42.76800012588501,
+               "name" : "h6",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : -172.6627,
+                  "skY" : -172.6627,
+                  "x" : 138.63960040807723,
+                  "y" : -253.88640074729923
+               }
+            },
+            {
+               "length" : 62.208000183105476,
+               "name" : "q3",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : 147.25219999999999,
+                  "skY" : 147.25219999999999,
+                  "x" : 611.74440180063243,
+                  "y" : -205.93440060615541
+               }
+            },
+            {
+               "length" : 35.640000104904175,
+               "name" : "h4",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : 175.20609999999999,
+                  "skY" : 175.20609999999999,
+                  "x" : 746.43120219707498,
+                  "y" : -80.838000237941756
+               }
+            },
+            {
+               "length" : 54.432000160217285,
+               "name" : "h3",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : 178.4418,
+                  "skY" : 178.4418,
+                  "x" : 587.99520173072824,
+                  "y" : 56.862000167369843
+               }
+            },
+            {
+               "length" : 121.17600035667419,
+               "name" : "q2",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : -173.44550000000001,
+                  "skY" : -173.44550000000001,
+                  "x" : -256.80240075588227,
+                  "y" : -108.21600031852722
+               }
+            },
+            {
+               "length" : 44.064000129699714,
+               "name" : "q5",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : 3.7974000000000001,
+                  "skY" : 3.7974000000000001,
+                  "x" : 473.9796013951302,
+                  "y" : 98.334000289440155
+               }
+            },
+            {
+               "length" : 36.936000108718872,
+               "name" : "h2",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : -4.556,
+                  "skY" : -4.556,
+                  "x" : 753.85080221891394,
+                  "y" : 71.668800210952767
+               }
+            },
+            {
+               "length" : 48.600000143051147,
+               "name" : "h5",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : -144.87729999999999,
+                  "skY" : -144.87729999999999,
+                  "x" : 602.80200177431107,
+                  "y" : 314.50680092573168
+               }
+            },
+            {
+               "length" : 31.104000091552738,
+               "name" : "h7",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : -127.39709999999999,
+                  "skY" : -127.39709999999999,
+                  "x" : 1230.6168036222457,
+                  "y" : 222.71760065555571
+               }
+            },
+            {
+               "length" : 42.120000123977661,
+               "name" : "h8",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : -155.19730000000001,
+                  "skY" : -155.19730000000001,
+                  "x" : 1146.2148033738135,
+                  "y" : 315.99720093011854
+               }
+            },
+            {
+               "length" : 53.784000158309944,
+               "name" : "q4",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : -170.54329999999999,
+                  "skY" : -170.54329999999999,
+                  "x" : 1209.8808035612108,
+                  "y" : -60.102000176906586
+               }
+            },
+            {
+               "length" : 34.992000102996826,
+               "name" : "h1",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : 180,
+                  "skY" : 180,
+                  "x" : 983.34000289440155,
+                  "y" : 39.106800115108491
+               }
+            }
+         ],
+         "canvas" : {
+            "height" : 1132.0560033321381,
+            "width" : 2928.3120086193085,
+            "x" : -16.200000047683716,
+            "y" : -142.5600004196167
+         },
+         "defaultActions" : [
+            {
+               "gotoAndPlay" : "z1"
+            }
+         ],
+         "frameRate" : 24,
+         "ik" : [],
+         "name" : "b1_p2_7_arm0",
+         "skin" : [
+            {
+               "name" : "",
+               "slot" : [
+                  {
+                     "display" : [
+                        {
+                           "name" : "3/h2",
+                           "path" : "3/h2",
+                           "transform" : {
+                              "skX" : -175.44399999999999,
+                              "skY" : -175.44399999999999,
+                              "x" : 7.8071688229799276,
+                              "y" : 1.1421648033618927
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "h2"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "3/h7",
+                           "path" : "3/h7",
+                           "transform" : {
+                              "skX" : -52.602899999999998,
+                              "skY" : -52.602899999999998,
+                              "x" : 27.367891280555725,
+                              "y" : -9.3389760274887106
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "h7"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "3/h5",
+                           "path" : "3/h5",
+                           "transform" : {
+                              "skX" : -35.122700000000002,
+                              "skY" : -35.122700000000002,
+                              "x" : -23.269420868492126,
+                              "y" : 35.342244104027749
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "h5"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "root_boundingBox",
+                           "path" : "root_boundingBox",
+                           "subType" : "polygon",
+                           "transform" : {
+                              "x" : -16.896600049734115,
+                              "y" : -144.39870042502881
+                           },
+                           "type" : "boundingBox",
+                           "vertices" : [
+                              -1463.6538043081764,
+                              -567.00810166895394,
+                              1460.8350042998791,
+                              -561.37050165236008,
+                              1463.6538043081759,
+                              562.7799016565084,
+                              -1460.8350042998791,
+                              565.59870166480539
+                           ]
+                        }
+                     ],
+                     "name" : "root_boundingBox"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "3/h6",
+                           "path" : "3/h6",
+                           "transform" : {
+                              "skX" : -7.3372999999999999,
+                              "skY" : -7.3372999999999999,
+                              "x" : 12.410755236530305,
+                              "y" : 0.23133600068092347
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "h6"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "3/h1",
+                           "path" : "3/h1",
+                           "transform" : {
+                              "x" : 9.0720000267028809,
+                              "y" : 1.5876000046730043
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "h1"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "3/h3",
+                           "path" : "3/h3",
+                           "transform" : {
+                              "skX" : 1.5582,
+                              "skY" : 1.5582,
+                              "x" : 33.656666499066361,
+                              "y" : -0.47815920140743262
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "h3"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "3/h4",
+                           "path" : "3/h4",
+                           "transform" : {
+                              "skX" : 4.7938999999999998,
+                              "skY" : 4.7938999999999998,
+                              "x" : 19.371765657019616,
+                              "y" : -3.0248640089035037
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "h4"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "3/h8",
+                           "path" : "3/h8",
+                           "transform" : {
+                              "skX" : -24.802700000000002,
+                              "skY" : -24.802700000000002,
+                              "x" : 19.825689658355714,
+                              "y" : 0.65350800192356107
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "h8"
+                  }
+               ]
+            }
+         ],
+         "slot" : [
+            {
+               "color" : {},
+               "name" : "h8",
+               "parent" : "h8"
+            },
+            {
+               "color" : {},
+               "name" : "h7",
+               "parent" : "h7",
+               "z" : 1
+            },
+            {
+               "color" : {},
+               "name" : "h6",
+               "parent" : "h6",
+               "z" : 2
+            },
+            {
+               "color" : {},
+               "name" : "h5",
+               "parent" : "h5",
+               "z" : 3
+            },
+            {
+               "color" : {},
+               "name" : "h4",
+               "parent" : "h4",
+               "z" : 4
+            },
+            {
+               "color" : {},
+               "name" : "h3",
+               "parent" : "h3",
+               "z" : 5
+            },
+            {
+               "color" : {},
+               "name" : "h2",
+               "parent" : "h2",
+               "z" : 6
+            },
+            {
+               "color" : {},
+               "name" : "h1",
+               "parent" : "h1",
+               "z" : 7
+            },
+            {
+               "color" : {},
+               "name" : "root_boundingBox",
+               "parent" : "root",
+               "z" : 8
+            }
+         ],
+         "type" : "Armature"
+      }
+   ],
+   "frameRate" : 24,
+   "isGlobal" : 0,
+   "name" : "b1_p2_7",
+   "version" : "5.0"
+}

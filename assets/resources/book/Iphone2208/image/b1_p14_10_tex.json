@@ -1,0 +1,15 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 298,
+         "name" : "6/fx",
+         "width" : 268,
+         "x" : 0,
+         "y" : 0
+      }
+   ],
+   "height" : 416,
+   "imagePath" : "b1_p14_10_tex.png",
+   "name" : "b1_p14_10",
+   "width" : 416
+}

@@ -1,0 +1,22 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 34,
+         "name" : "12/2yy",
+         "width" : 237,
+         "x" : 0,
+         "y" : 89
+      },
+      {
+         "height" : 86,
+         "name" : "12/styy",
+         "width" : 684,
+         "x" : 0,
+         "y" : 0
+      }
+   ],
+   "height" : 209,
+   "imagePath" : "b1_p16_5_tex.png",
+   "name" : "b1_p16_5",
+   "width" : 831
+}

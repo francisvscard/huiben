@@ -1,0 +1,29 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 349,
+         "name" : "11-1/6",
+         "width" : 2313,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 166,
+         "name" : "11-1/4",
+         "width" : 2313,
+         "x" : 0,
+         "y" : 352
+      },
+      {
+         "height" : 144,
+         "name" : "11-1/lh2",
+         "width" : 1758,
+         "x" : 0,
+         "y" : 520
+      }
+   ],
+   "height" : 831,
+   "imagePath" : "b1_p11_3_tex.png",
+   "name" : "b1_p11_3",
+   "width" : 3319
+}

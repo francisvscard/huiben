@@ -1,0 +1,15 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 43,
+         "name" : "3/yy",
+         "width" : 81,
+         "x" : 0,
+         "y" : 0
+      }
+   ],
+   "height" : 53,
+   "imagePath" : "b1_p16_2_tex.png",
+   "name" : "b1_p16_2",
+   "width" : 105
+}

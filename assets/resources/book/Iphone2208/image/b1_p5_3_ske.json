@@ -1,0 +1,4306 @@
+{
+   "armature" : [
+      {
+         "aabb" : {
+            "height" : 368.09491620479213,
+            "width" : 286.61850084364414,
+            "x" : -159.02443467860513,
+            "y" : -222.69991577683075
+         },
+         "animation" : [
+            {
+               "bone" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "root"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "bone"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "scX" : 1.03,
+                              "scY" : 1.05
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "lun"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "skX" : 2.4256000000000002,
+                              "skY" : 2.4256000000000002,
+                              "x" : 7.5293550221621999,
+                              "y" : -0.17236800050735473
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "st"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "scX" : 0.90000000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yy_0"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "scX" : 1.03,
+                              "scY" : 1.05
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "lun2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "skX" : -8.2810000000000006,
+                              "skY" : -8.2810000000000006
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "b3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "skX" : -2.145,
+                              "skY" : -2.145
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "32s"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 5,
+                           "transform" : {
+                              "x" : -31.418847092479467,
+                              "y" : -18.333702053964139
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 5,
+                           "transform" : {
+                              "x" : -59.63835617554188,
+                              "y" : -31.707855093330142
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {
+                              "x" : -48.202209141880275,
+                              "y" : 22.0900770650208
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "c3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "skX" : -8.0328999999999997,
+                              "skY" : -8.0328999999999997
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yb1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 5,
+                           "transform" : {
+                              "x" : 46.425312136650085,
+                              "y" : -10.873521032005549
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 5,
+                           "transform" : {
+                              "x" : 20.734056061029435,
+                              "y" : -27.028890079557897
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {
+                              "x" : -4.9044690144360068,
+                              "y" : -38.862909114390611
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "c4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 5,
+                           "transform" : {
+                              "x" : -33.509700098633765,
+                              "y" : -12.031497035413981
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 5,
+                           "transform" : {
+                              "x" : -26.42649307778478,
+                              "y" : 43.365375127643347
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {
+                              "x" : 29.920185088068244,
+                              "y" : 20.612880060672762
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "c2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 5,
+                           "transform" : {
+                              "x" : 1.0021320029497147,
+                              "y" : 50.247945147901774
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 5,
+                           "transform" : {
+                              "x" : 46.571760137081149,
+                              "y" : 26.698086078584193
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {
+                              "x" : 23.475582069098948,
+                              "y" : 17.320392050981521
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "chi2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 5,
+                           "transform" : {
+                              "x" : 6.4898820191025735,
+                              "y" : 48.736971143454312
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 5,
+                           "transform" : {
+                              "x" : 60.955173179417848,
+                              "y" : 31.407021092444655
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {
+                              "x" : 33.613056098937989,
+                              "y" : 17.119026050388811
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "chi"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yy"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "d11"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "d3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 5,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 5,
+                           "transform" : {
+                              "x" : -34.519365101605658,
+                              "y" : -22.449231066077946
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 5,
+                           "transform" : {
+                              "x" : -39.705957116872071,
+                              "y" : 28.664604084372517
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {
+                              "x" : -39.705957116872071,
+                              "y" : 28.664604084372517
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "ccc"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "skX" : 22.819299999999998,
+                              "skY" : 22.819299999999998
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yb2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "b1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "skX" : 14.323499999999999,
+                              "skY" : 14.323499999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "32d"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "skX" : 8.2195999999999998,
+                              "skY" : 8.2195999999999998
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "b2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "ys"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y22"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "skX" : -4.8830999999999998,
+                              "skY" : -4.8830999999999998,
+                              "x" : 3.0255930089056493,
+                              "y" : -2.9105730085670949
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "t1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "skX" : -5.9915000000000003,
+                              "skY" : -5.9915000000000003
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "t2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y1"
+                  }
+               ],
+               "duration" : 22,
+               "ffd" : [],
+               "frame" : [],
+               "ik" : [],
+               "name" : "zoulu",
+               "playTimes" : 0,
+               "slot" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "d11"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "d3"
+                  }
+               ]
+            },
+            {
+               "bone" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "root"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "bone"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "lun"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {
+                              "x" : 3.901770011484623,
+                              "y" : -0.089343000262975689
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {
+                              "x" : 3.901770011484623,
+                              "y" : -0.089343000262975689
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "st"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yy_0"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "lun2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {
+                              "skX" : -1.5617000000000001,
+                              "skY" : -1.5617000000000001
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {
+                              "skX" : -1.5617000000000001,
+                              "skY" : -1.5617000000000001
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "skX" : 8.2642000000000007,
+                              "skY" : 8.2642000000000007
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {
+                              "skX" : 8.2642000000000007,
+                              "skY" : 8.2642000000000007
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {
+                              "skX" : -1.5617000000000001,
+                              "skY" : -1.5617000000000001
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {
+                              "skX" : -1.5617000000000001,
+                              "skY" : -1.5617000000000001
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "skX" : 8.2642000000000007,
+                              "skY" : 8.2642000000000007
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "b3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {
+                              "skX" : -2.0306999999999999,
+                              "skY" : -2.0306999999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {
+                              "skX" : -2.0306999999999999,
+                              "skY" : -2.0306999999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "32s"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "c3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {
+                              "skX" : -5.0247000000000002,
+                              "skY" : -5.0247000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {
+                              "skX" : -5.0247000000000002,
+                              "skY" : -5.0247000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yb1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "c4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "c2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "chi2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "chi"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yy"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "d11"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "d3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "ccc"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yb2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "b1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "32d"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 10,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {
+                              "skX" : -10.962199999999999,
+                              "skY" : -10.962199999999999,
+                              "x" : -0.25263900074362755,
+                              "y" : -1.5435360045433044
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {
+                              "skX" : -10.962199999999999,
+                              "skY" : -10.962199999999999,
+                              "x" : -0.25263900074362755,
+                              "y" : -1.5435360045433044
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "skX" : -9.8086000000000002,
+                              "skY" : -9.8086000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {
+                              "skX" : -9.8086000000000002,
+                              "skY" : -9.8086000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {
+                              "skX" : -10.962199999999999,
+                              "skY" : -10.962199999999999,
+                              "x" : -0.25263900074362755,
+                              "y" : -1.5435360045433044
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 10,
+                           "transform" : {
+                              "skX" : -10.962199999999999,
+                              "skY" : -10.962199999999999,
+                              "x" : -0.25263900074362755,
+                              "y" : -1.5435360045433044
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 20,
+                           "transform" : {
+                              "skX" : -9.8086000000000002,
+                              "skY" : -9.8086000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "b2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "ys"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y22"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "t1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "t2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 25,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y1"
+                  }
+               ],
+               "duration" : 100,
+               "ffd" : [],
+               "frame" : [],
+               "ik" : [],
+               "name" : "zd",
+               "playTimes" : 0,
+               "slot" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 25,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 25,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 25,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 25,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "d11"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 37,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 55,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "y1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 25,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 25,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 25,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 25,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "d3"
+                  }
+               ]
+            },
+            {
+               "bone" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "root"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {
+                              "x" : -9.8396370289623736,
+                              "y" : 4.9198590144813066
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "x" : -9.8396370289623736,
+                              "y" : 4.9198590144813066
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "bone"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "lun"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {
+                              "skX" : -2.7067000000000001,
+                              "skY" : -2.7067000000000001
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 35,
+                           "transform" : {
+                              "skX" : 10.351699999999999,
+                              "skY" : 10.351699999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 10.351699999999999,
+                              "skY" : 10.351699999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "st"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yy_0"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "lun2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 5.0300000000000002,
+                              "skY" : 5.0300000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 12,
+                           "transform" : {
+                              "skX" : 20.0932,
+                              "skY" : 20.0932
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 18,
+                           "transform" : {
+                              "skX" : 15.6326,
+                              "skY" : 15.6326
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 20.0932,
+                              "skY" : 20.0932
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "b3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "32s"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {
+                              "x" : -9.7212960286140433,
+                              "y" : -6.488505019098521
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "x" : -9.7212960286140433,
+                              "y" : -6.488505019098521
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "c3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 30.928599999999999,
+                              "skY" : 30.928599999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 15.739800000000001,
+                              "skY" : 15.739800000000001
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 30.928599999999999,
+                              "skY" : 30.928599999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 8,
+                           "transform" : {
+                              "skX" : 15.739800000000001,
+                              "skY" : 15.739800000000001
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 30.928599999999999,
+                              "skY" : 30.928599999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yb1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {
+                              "x" : 15.0964560444355,
+                              "y" : 2.5276050074398517
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "x" : 15.0964560444355,
+                              "y" : 2.5276050074398517
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "c4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {
+                              "x" : -10.847196031928062,
+                              "y" : -8.5109130250513552
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "x" : -10.847196031928062,
+                              "y" : -8.5109130250513552
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "c2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {
+                              "x" : -2.4713910072743892,
+                              "y" : 24.78632407295704
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "x" : -2.4713910072743892,
+                              "y" : 24.78632407295704
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "chi2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {
+                              "x" : -1.0838610031902791,
+                              "y" : 16.748289049297572
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "x" : -1.0838610031902791,
+                              "y" : 16.748289049297572
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "chi"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yy"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "d11"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "d3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {
+                              "x" : -5.8698270172774789,
+                              "y" : -7.7374440227746968
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "x" : -5.8698270172774789,
+                              "y" : -7.7374440227746968
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "ccc"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 34.594799999999999,
+                              "skY" : 34.594799999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : -2.0121000000000002,
+                              "skY" : -2.0121000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 34.594799999999999,
+                              "skY" : 34.594799999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 8,
+                           "transform" : {
+                              "skX" : -2.0121000000000002,
+                              "skY" : -2.0121000000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 34.594799999999999,
+                              "skY" : 34.594799999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yb2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 21,
+                           "transform" : {
+                              "skX" : -3.7608000000000001,
+                              "skY" : -3.7608000000000001
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 18,
+                           "transform" : {
+                              "skX" : -6.1679000000000004,
+                              "skY" : -6.1679000000000004
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "b1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "32d"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 7,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : -8.7482000000000006,
+                              "skY" : -8.7482000000000006
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 12,
+                           "transform" : {
+                              "skX" : -11.4,
+                              "skY" : -11.4
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 18,
+                           "transform" : {
+                              "skX" : -15.8606,
+                              "skY" : -15.8606
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : -11.4,
+                              "skY" : -11.4
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "b2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 11,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 19.709099999999999,
+                              "skY" : 19.709099999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 38.967300000000002,
+                              "skY" : 38.967300000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 19.709099999999999,
+                              "skY" : 19.709099999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 8,
+                           "transform" : {
+                              "skX" : 38.967300000000002,
+                              "skY" : 38.967300000000002
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {
+                              "skX" : 19.709099999999999,
+                              "skY" : 19.709099999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "ys"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y22"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "t1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "t2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 6,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 46,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 9,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y1"
+                  }
+               ],
+               "duration" : 61,
+               "ffd" : [],
+               "frame" : [],
+               "ik" : [],
+               "name" : "dc",
+               "playTimes" : 0,
+               "slot" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 3,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 3,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 46,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 4,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 5,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "d11"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 26,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 2,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 27,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "y1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 3,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 3,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 46,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "duration" : 4,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 2,
+                           "duration" : 5,
+                           "tweenEasing" : null
+                        },
+                        {
+                           "displayIndex" : 1,
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "d3"
+                  }
+               ]
+            }
+         ],
+         "bone" : [
+            {
+               "name" : "root",
+               "transform" : {
+                  "scX" : 1.2345678976006922,
+                  "scY" : 1.2345678976006922,
+                  "x" : 20.0,
+                  "y" : 47.0
+               }
+            },
+            {
+               "length" : 27.540000081062317,
+               "name" : "bone",
+               "parent" : "root",
+               "transform" : {
+                  "skX" : -88.688699999999997,
+                  "skY" : -88.688699999999997,
+                  "x" : 49.855500146746635,
+                  "y" : -241.21800071001053
+               }
+            },
+            {
+               "length" : 19.440000057220459,
+               "name" : "lun",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : -3.2782,
+                  "skY" : -3.2782,
+                  "x" : -367.2877780810893,
+                  "y" : 18.656325054913758
+               }
+            },
+            {
+               "length" : 127.98000037670135,
+               "name" : "st",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : 0.64739999999999998,
+                  "skY" : 0.64739999999999998,
+                  "x" : -299.05467388024925,
+                  "y" : -49.788513146549462
+               }
+            },
+            {
+               "length" : 63.180000185966492,
+               "name" : "yy_0",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : -100.02970000000001,
+                  "skY" : -100.02970000000001,
+                  "x" : -353.59667204079034,
+                  "y" : -76.978512226581572
+               }
+            },
+            {
+               "length" : 13.770000040531158,
+               "name" : "lun2",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : -7.0052000000000003,
+                  "skY" : -7.0052000000000003,
+                  "x" : -339.29142399868368,
+                  "y" : -85.610601251989607
+               }
+            },
+            {
+               "length" : 42.930000126361847,
+               "name" : "b3",
+               "parent" : "st",
+               "transform" : {
+                  "skX" : -62.476500000000001,
+                  "skY" : -62.476500000000001,
+                  "x" : 133.23673839217426,
+                  "y" : 19.527966057479382
+               }
+            },
+            {
+               "length" : 59.940000176429749,
+               "name" : "32s",
+               "parent" : "st",
+               "transform" : {
+                  "skX" : -126.63639999999999,
+                  "skY" : -126.63639999999999,
+                  "x" : 103.44890730449556,
+                  "y" : -37.203867109507321
+               }
+            },
+            {
+               "name" : "c3",
+               "parent" : "lun",
+               "transform" : {
+                  "x" : 68.728257202297442,
+                  "y" : 10.627200031280516
+               }
+            },
+            {
+               "length" : 78.570000231266022,
+               "name" : "yb1",
+               "parent" : "st",
+               "transform" : {
+                  "skX" : -120.50239999999999,
+                  "skY" : -120.50239999999999,
+                  "x" : 119.55600035190582,
+                  "y" : 85.664466252148159
+               }
+            },
+            {
+               "name" : "c4",
+               "parent" : "lun",
+               "transform" : {
+                  "x" : 19.229400056600568,
+                  "y" : 24.164244071125985
+               }
+            },
+            {
+               "name" : "c2",
+               "parent" : "lun",
+               "transform" : {
+                  "x" : 45.102096132755285,
+                  "y" : -4.6916820138096815
+               }
+            },
+            {
+               "name" : "chi2",
+               "parent" : "lun2",
+               "transform" : {
+                  "x" : 23.579667069405318,
+                  "y" : -13.717188040375708
+               }
+            },
+            {
+               "name" : "chi",
+               "parent" : "lun",
+               "transform" : {
+                  "x" : 12.947445038110018,
+                  "y" : -14.751801043421029
+               }
+            },
+            {
+               "name" : "yy",
+               "parent" : "lun2",
+               "transform" : {
+                  "x" : 22.552344066381455,
+                  "y" : 17.511390051543714
+               }
+            },
+            {
+               "length" : 32.400000095367432,
+               "name" : "d11",
+               "parent" : "lun2",
+               "transform" : {
+                  "skX" : -150.4597,
+                  "skY" : -150.4597,
+                  "x" : 56.68323316684365,
+                  "y" : -46.404657136589293
+               }
+            },
+            {
+               "length" : 63.180000185966492,
+               "name" : "d3",
+               "parent" : "lun",
+               "transform" : {
+                  "skX" : -144.5044,
+                  "skY" : -144.5044,
+                  "x" : 80.416233236700307,
+                  "y" : -27.631125081330534
+               }
+            },
+            {
+               "name" : "ccc",
+               "parent" : "lun2",
+               "transform" : {
+                  "x" : 57.681801169782879,
+                  "y" : 6.4431450189650059
+               }
+            },
+            {
+               "length" : 17.820000052452087,
+               "name" : "yb2",
+               "parent" : "yb1",
+               "transform" : {
+                  "skX" : -4.1942000000000004,
+                  "skY" : -4.1942000000000004,
+                  "x" : 86.913000255823135,
+                  "y" : 2.0250000059604645
+               }
+            },
+            {
+               "length" : 4.050000011920929,
+               "name" : "b1",
+               "parent" : "b3",
+               "transform" : {
+                  "skX" : 68.159400000000005,
+                  "skY" : 68.159400000000005,
+                  "x" : 48.906747143954043,
+                  "y" : 4.2067350123822687
+               }
+            },
+            {
+               "length" : 15.39000004529953,
+               "name" : "32d",
+               "parent" : "32s",
+               "transform" : {
+                  "skX" : 7.6764999999999999,
+                  "skY" : 7.6764999999999999,
+                  "x" : 63.935811188191174,
+                  "y" : 3.5410770104229448
+               }
+            },
+            {
+               "length" : 42.120000123977661,
+               "name" : "b2",
+               "parent" : "b1",
+               "transform" : {
+                  "skX" : 33.957500000000003,
+                  "skY" : 33.957500000000003,
+                  "x" : 8.50402802503109,
+                  "y" : -2.1641580063700676
+               }
+            },
+            {
+               "length" : 36.450000107288361,
+               "name" : "ys",
+               "parent" : "yb2",
+               "transform" : {
+                  "skX" : -56.471899999999998,
+                  "skY" : -56.471899999999998,
+                  "x" : 18.273924053788186,
+                  "y" : 0.0
+               }
+            },
+            {
+               "length" : 30.78000009059906,
+               "name" : "y22",
+               "parent" : "32d",
+               "transform" : {
+                  "skX" : -70.759699999999995,
+                  "skY" : -70.759699999999995,
+                  "x" : 19.039212056040764,
+                  "y" : 1.0296720030307771
+               }
+            },
+            {
+               "length" : 21.870000064373016,
+               "name" : "t1",
+               "parent" : "b2",
+               "transform" : {
+                  "skX" : -109.96299999999999,
+                  "skY" : -109.96299999999999,
+                  "x" : 64.898901191025971,
+                  "y" : 28.206306083023549
+               }
+            },
+            {
+               "length" : 34.020000100135803,
+               "name" : "t2",
+               "parent" : "b2",
+               "transform" : {
+                  "skX" : -114.50920000000001,
+                  "skY" : -114.50920000000001,
+                  "x" : 30.319839089244603,
+                  "y" : -14.233806041896344
+               }
+            },
+            {
+               "name" : "y1",
+               "parent" : "t2",
+               "transform" : {
+                  "x" : 41.769351122945551,
+                  "y" : 5.1123960150480272
+               }
+            }
+         ],
+         "canvas" : {
+            "height" : 376.65000110864639,
+            "width" : 295.65000087022781,
+            "x" : -16.200000047683716,
+            "y" : -38.070000112056732
+         },
+         "defaultActions" : [
+            {
+               "gotoAndPlay" : "zoulu"
+            }
+         ],
+         "frameRate" : 24,
+         "ik" : [],
+         "name" : "b1_p5_3_arm0",
+         "skin" : [
+            {
+               "name" : "",
+               "slot" : [
+                  {
+                     "display" : [
+                        {
+                           "edges" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0 ],
+                           "height" : 44.550000131130219,
+                           "name" : "5-3/b3",
+                           "path" : "5-3/b3",
+                           "transform" : {
+                              "skX" : 139.38130000000001,
+                              "skY" : 139.38130000000001,
+                              "x" : 20.839113061338661,
+                              "y" : -1.7063460050225256
+                           },
+                           "triangles" : [ 1, 4, 2, 2, 4, 3, 5, 4, 1, 0, 5, 1 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0,
+                              0,
+                              0.57442000000000004,
+                              0,
+                              1,
+                              0.56908999999999998,
+                              1,
+                              1,
+                              0.24302000000000001,
+                              1,
+                              0,
+                              0.25091000000000002
+                           ],
+                           "vertices" : [
+                              -34.830000102519989,
+                              -22.275000065565109,
+                              5.1840000152587891,
+                              -22.275000065565109,
+                              34.830000102519989,
+                              3.078000009059906,
+                              34.830000102519989,
+                              22.275000065565109,
+                              -17.901000052690506,
+                              22.275000065565109,
+                              -34.830000102519989,
+                              -11.097000032663345
+                           ],
+                           "width" : 69.660000205039978
+                        }
+                     ],
+                     "name" : "b3"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/c4",
+                           "path" : "5-3/c4",
+                           "transform" : {
+                              "skX" : 91.966999999999999,
+                              "skY" : 91.966999999999999,
+                              "x" : 2.579688007593155,
+                              "y" : 2.7631530081331732
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "c4"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/yy",
+                           "path" : "5-3/yy",
+                           "transform" : {
+                              "skX" : 95.694000000000003,
+                              "skY" : 95.694000000000003,
+                              "x" : 4.8027330141365523,
+                              "y" : 10.613349031239748
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "yy"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              5,
+                              -0.09921479579387428,
+                              -0.99506604016797795,
+                              0.99506604016797795,
+                              -0.09921479579387428,
+                              -43.497000128030791,
+                              96.025500282645183
+                           ],
+                           "edges" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0 ],
+                           "height" : 89.100000262260437,
+                           "name" : "5-3/lun2",
+                           "path" : "5-3/lun2",
+                           "slotPose" : [ 1, 0, 0, 1, -53.055000156164205, 56.295000165700912 ],
+                           "transform" : {
+                              "skX" : 95.694000000000003,
+                              "skY" : 95.694000000000003,
+                              "x" : 40.48274711915851,
+                              "y" : -5.5689930163919925
+                           },
+                           "triangles" : [ 1, 5, 2, 2, 5, 3, 5, 4, 3, 0, 5, 1 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0.28148000000000001,
+                              0,
+                              0.67730999999999997,
+                              0,
+                              1,
+                              0.41317999999999999,
+                              1,
+                              1,
+                              0,
+                              1,
+                              0,
+                              0.62544999999999995
+                           ],
+                           "vertices" : [
+                              -19.116000056266785,
+                              -44.550000131130219,
+                              15.511500045657156,
+                              -44.550000131130219,
+                              43.740000128746033,
+                              -7.7355000227689752,
+                              43.740000128746033,
+                              44.550000131130219,
+                              -43.740000128746033,
+                              44.550000131130219,
+                              -43.740000128746033,
+                              11.178000032901764
+                           ],
+                           "weights" : [ 1, 5, 1, 1, 5, 1, 1, 5, 1, 1, 5, 1, 1, 5, 1, 1, 5, 1 ],
+                           "width" : 87.480000257492065
+                        }
+                     ],
+                     "name" : "lun2"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/chi2",
+                           "path" : "5-3/chi2",
+                           "transform" : {
+                              "skX" : 95.694000000000003,
+                              "skY" : 95.694000000000003,
+                              "x" : -0.97880400288105007,
+                              "y" : 1.6525620048642158
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "chi2"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              3,
+                              0.22656934577377677,
+                              -0.97399503672023025,
+                              0.97399503672023025,
+                              0.22656934577377677,
+                              -6.7635000199079522,
+                              56.619000166654523
+                           ],
+                           "edges" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 0 ],
+                           "height" : 168.48000049591064,
+                           "name" : "5-3/st",
+                           "path" : "5-3/st",
+                           "slotPose" : [
+                              0.99999999999999989,
+                              -2.2204460492503131e-16,
+                              2.2204460492503131e-16,
+                              0.99999999999999989,
+                              10.935000032186512,
+                              -11.745000034570705
+                           ],
+                           "transform" : {
+                              "skX" : 76.904799999999994,
+                              "skY" : 76.904799999999994,
+                              "x" : 70.596117207795373,
+                              "y" : 1.7490330051481724
+                           },
+                           "triangles" : [ 2, 1, 3, 1, 6, 3, 3, 6, 4, 6, 5, 4, 1, 8, 6, 8, 7, 6, 0, 8, 1 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0.088499999999999995,
+                              0,
+                              0.29646,
+                              0,
+                              1,
+                              0.15865000000000001,
+                              1,
+                              0.53364999999999996,
+                              1,
+                              0.85577000000000003,
+                              0.91149999999999998,
+                              1,
+                              0.55310000000000004,
+                              1,
+                              0,
+                              0.84135000000000004,
+                              0,
+                              0.58653999999999995
+                           ],
+                           "vertices" : [
+                              -75.330000221729279,
+                              -84.240000247955322,
+                              -37.260000109672546,
+                              -84.240000247955322,
+                              91.530000269412994,
+                              -57.510000169277191,
+                              91.530000269412994,
+                              5.6700000166893005,
+                              91.530000269412994,
+                              59.940000176429749,
+                              75.330000221729279,
+                              84.240000247955322,
+                              9.7200000286102295,
+                              84.240000247955322,
+                              -91.530000269412994,
+                              57.510000169277191,
+                              -91.530000269412994,
+                              14.580000042915344
+                           ],
+                           "weights" : [
+                              1,
+                              3,
+                              1,
+                              1,
+                              3,
+                              1,
+                              1,
+                              3,
+                              1,
+                              1,
+                              3,
+                              1,
+                              1,
+                              3,
+                              1,
+                              1,
+                              3,
+                              1,
+                              1,
+                              3,
+                              1,
+                              1,
+                              3,
+                              1,
+                              1,
+                              3,
+                              1
+                           ],
+                           "width" : 183.06000053882599
+                        }
+                     ],
+                     "name" : "st"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/chi",
+                           "path" : "5-3/chi",
+                           "transform" : {
+                              "skX" : 91.966999999999999,
+                              "skY" : 91.966999999999999,
+                              "x" : 1.8351360054016115,
+                              "y" : -1.5173730044662952
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "chi"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/t2",
+                           "path" : "5-3/t2",
+                           "transform" : {
+                              "skX" : 151.77369999999999,
+                              "skY" : 151.77369999999999,
+                              "x" : 25.283745074421169,
+                              "y" : 5.2281450153887272
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "t2"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/c2",
+                           "path" : "5-3/c2",
+                           "transform" : {
+                              "skX" : 91.966999999999999,
+                              "skY" : 91.966999999999999,
+                              "x" : 1.6305300047993658,
+                              "y" : 2.0821860061287882
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "c2"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              7,
+                              -0.79852511774904311,
+                              0.60196149073165528,
+                              -0.60196149073165528,
+                              -0.79852511774904311,
+                              -19.561500057578087,
+                              -52.569000154733665
+                           ],
+                           "edges" : [ 0, 1, 1, 3, 3, 2, 2, 0 ],
+                           "height" : 48.600000143051147,
+                           "name" : "5-3/32s",
+                           "path" : "5-3/32s",
+                           "slotPose" : [
+                              0.82491396109542903,
+                              -0.56525830979283198,
+                              0.56525830979283198,
+                              0.82491396109542903,
+                              -24.79667580397302,
+                              -44.661234118499216
+                           ],
+                           "transform" : {
+                              "skX" : -177.40969999999999,
+                              "skY" : -177.40969999999999,
+                              "x" : 8.9406180263161659,
+                              "y" : -3.1632120093107221
+                           },
+                           "triangles" : [ 1, 0, 3, 0, 2, 3 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [ 0, 0, 1, 0, 0, 1, 1, 1 ],
+                           "vertices" : [
+                              -59.535000175237656,
+                              -24.300000071525574,
+                              59.535000175237656,
+                              -24.300000071525574,
+                              -59.535000175237656,
+                              24.300000071525574,
+                              59.535000175237656,
+                              24.300000071525574
+                           ],
+                           "weights" : [ 1, 7, 1, 1, 7, 1, 1, 7, 1, 1, 7, 1 ],
+                           "width" : 119.07000035047531
+                        }
+                     ],
+                     "name" : "32s"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/yy_0",
+                           "path" : "5-3/yy_0",
+                           "transform" : {
+                              "skX" : -171.2816,
+                              "skY" : -171.2816,
+                              "x" : -6.3295830186307436,
+                              "y" : -3.8797380114197728
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "yy_0"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/c3",
+                           "path" : "5-3/c3",
+                           "transform" : {
+                              "skX" : 91.966999999999999,
+                              "skY" : 91.966999999999999,
+                              "x" : 3.7716840111017222,
+                              "y" : 3.452463010162115
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "c3"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/b1",
+                           "path" : "5-3/b1",
+                           "transform" : {
+                              "skX" : 71.221999999999994,
+                              "skY" : 71.221999999999994,
+                              "x" : -4.6573380137085909,
+                              "y" : 2.9096010085642336
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "b1"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/d3",
+                           "path" : "5-3/d3",
+                           "transform" : {
+                              "skX" : -123.5286,
+                              "skY" : -123.5286,
+                              "x" : 34.143039100497958,
+                              "y" : -6.3963270188271997
+                           },
+                           "type" : "image"
+                        },
+                        {
+                           "name" : "5-3/d1",
+                           "path" : "5-3/d1",
+                           "transform" : {
+                              "skX" : -123.5286,
+                              "skY" : -123.5286,
+                              "x" : 33.467823098510507,
+                              "y" : -5.948883017510175
+                           },
+                           "type" : "image"
+                        },
+                        {
+                           "name" : "5-3/d2",
+                           "path" : "5-3/d2",
+                           "transform" : {
+                              "skX" : -123.5286,
+                              "skY" : -123.5286,
+                              "x" : 33.805431099504233,
+                              "y" : -6.1726050181686878
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "d3"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              20,
+                              -0.87177863643393849,
+                              0.48989999903794929,
+                              -0.48989999903794929,
+                              -0.87177863643393849,
+                              -72.747440984794252,
+                              -16.909772091372737
+                           ],
+                           "edges" : [ 0, 1, 1, 3, 3, 2, 2, 0 ],
+                           "height" : 19.440000057220459,
+                           "name" : "5-3/32d",
+                           "path" : "5-3/32d",
+                           "slotPose" : [
+                              0.82491396109542947,
+                              -0.56525830979283098,
+                              0.56525830979283098,
+                              0.82491396109542947,
+                              -78.573072946265412,
+                              -15.66723418114092
+                           ],
+                           "transform" : {
+                              "skX" : 174.91380000000001,
+                              "skY" : 174.91380000000001,
+                              "x" : 5.6874150167405606,
+                              "y" : 1.7707410052120687
+                           },
+                           "triangles" : [ 1, 0, 3, 0, 2, 3 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [ 0, 0, 1, 0, 0, 1, 1, 1 ],
+                           "vertices" : [
+                              -17.415000051259995,
+                              -9.7200000286102295,
+                              17.415000051259995,
+                              -9.7200000286102295,
+                              -17.415000051259995,
+                              9.7200000286102295,
+                              17.415000051259995,
+                              9.7200000286102295
+                           ],
+                           "weights" : [ 1, 20, 1, 1, 20, 1, 1, 20, 1, 1, 20, 1 ],
+                           "width" : 34.830000102519989
+                        }
+                     ],
+                     "name" : "32d"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/ccc",
+                           "path" : "5-3/ccc",
+                           "transform" : {
+                              "skX" : 95.694000000000003,
+                              "skY" : 95.694000000000003,
+                              "x" : -3.0502980089783667,
+                              "y" : 1.2017970035374164
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "ccc"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/y1",
+                           "path" : "5-3/y1",
+                           "transform" : {
+                              "skX" : 151.77369999999999,
+                              "skY" : 151.77369999999999,
+                              "x" : -30.950748091101644,
+                              "y" : 7.4207340218424802
+                           },
+                           "type" : "image"
+                        },
+                        {
+                           "name" : "5-3/y2",
+                           "path" : "5-3/y2",
+                           "transform" : {
+                              "skX" : 151.77369999999999,
+                              "skY" : 151.77369999999999,
+                              "x" : -30.950748091101644,
+                              "y" : 7.4207340218424802
+                           },
+                           "type" : "image"
+                        },
+                        {
+                           "name" : "5-3/y3",
+                           "path" : "5-3/y3",
+                           "transform" : {
+                              "skX" : 151.77369999999999,
+                              "skY" : 151.77369999999999,
+                              "x" : -30.950748091101644,
+                              "y" : 7.4207340218424802
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "y1"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              22,
+                              -0.20666078501991192,
+                              0.97841265319646875,
+                              -0.97841265319646875,
+                              -0.20666078501991192,
+                              3.232048457944213,
+                              -9.6228480577895663
+                           ],
+                           "edges" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 0 ],
+                           "height" : 83.430000245571136,
+                           "name" : "5-3/ys",
+                           "path" : "5-3/ys",
+                           "slotPose" : [
+                              0.95420285388902704,
+                              -0.299160347690058,
+                              0.299160347690058,
+                              0.95420285388902704,
+                              -0.81414022087289628,
+                              6.7132582436768846
+                           ],
+                           "transform" : {
+                              "skX" : -119.3339,
+                              "skY" : -119.3339,
+                              "x" : 16.819650049507619,
+                              "y" : 0.58279500171542165
+                           },
+                           "triangles" : [ 5, 4, 3, 7, 5, 3, 7, 3, 2, 1, 7, 2, 7, 6, 5, 0, 7, 1 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0.20052,
+                              0,
+                              0.53905999999999998,
+                              0,
+                              1,
+                              0.35485,
+                              1,
+                              0.64612000000000003,
+                              0.67811999999999995,
+                              1,
+                              0.39167000000000002,
+                              1,
+                              0,
+                              0.75971,
+                              0,
+                              0.53300999999999998
+                           ],
+                           "vertices" : [
+                              -23.287500068545341,
+                              -41.715000122785568,
+                              3.0375000089406967,
+                              -41.715000122785568,
+                              38.880000114440918,
+                              -12.109500035643578,
+                              38.880000114440918,
+                              12.190500035881996,
+                              13.851000040769579,
+                              41.715000122785568,
+                              -8.4240000247955322,
+                              41.715000122785568,
+                              -38.880000114440918,
+                              21.66750006377697,
+                              -38.880000114440918,
+                              2.7540000081062317
+                           ],
+                           "weights" : [
+                              1,
+                              22,
+                              1,
+                              1,
+                              22,
+                              1,
+                              1,
+                              22,
+                              1,
+                              1,
+                              22,
+                              1,
+                              1,
+                              22,
+                              1,
+                              1,
+                              22,
+                              1,
+                              1,
+                              22,
+                              1,
+                              1,
+                              22,
+                              1
+                           ],
+                           "width" : 77.760000228881836
+                        }
+                     ],
+                     "name" : "ys"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              9,
+                              -0.95420285388902681,
+                              0.29916034769005767,
+                              -0.29916034769005767,
+                              -0.95420285388902681,
+                              103.7610003054142,
+                              -40.41900011897085
+                           ],
+                           "edges" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0 ],
+                           "height" : 48.600000143051147,
+                           "name" : "5-3/yb1",
+                           "path" : "5-3/yb1",
+                           "slotPose" : [
+                              0.95420285388902681,
+                              -0.29916034769005778,
+                              0.29916034769005778,
+                              0.95420285388902681,
+                              77.12173727046715,
+                              -24.936536247104314
+                           ],
+                           "transform" : {
+                              "skX" : 180,
+                              "skY" : 180,
+                              "x" : 30.051000088453293,
+                              "y" : -6.8040000200271606
+                           },
+                           "triangles" : [ 2, 3, 4, 5, 2, 4, 0, 1, 5, 5, 1, 2 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0,
+                              0,
+                              0,
+                              1,
+                              0.30952000000000002,
+                              1,
+                              0.85374000000000005,
+                              1,
+                              0.87585000000000002,
+                              0,
+                              0.28638999999999998,
+                              0
+                           ],
+                           "vertices" : [
+                              -59.535000175237656,
+                              -24.300000071525574,
+                              -59.535000175237656,
+                              24.300000071525574,
+                              -22.680000066757202,
+                              24.300000071525574,
+                              42.120000123977661,
+                              24.300000071525574,
+                              44.752500131726265,
+                              -24.300000071525574,
+                              -25.434000074863434,
+                              -24.300000071525574
+                           ],
+                           "weights" : [ 1, 9, 1, 1, 9, 1, 1, 9, 1, 1, 9, 1, 1, 9, 1, 1, 9, 1 ],
+                           "width" : 119.07000035047531
+                        }
+                     ],
+                     "name" : "yb1"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "bone_boundingBox",
+                           "path" : "bone_boundingBox",
+                           "subType" : "polygon",
+                           "transform" : {
+                              "skX" : 88.688699999999997,
+                              "skY" : 88.688699999999997,
+                              "x" : -191.61546356400848,
+                              "y" : -61.201818180143832
+                           },
+                           "type" : "boundingBox",
+                           "vertices" : [
+                              -33.289815887460193,
+                              -152.78328992339254,
+                              -77.758816018352007,
+                              -136.34028987499357,
+                              -85.170316040167307,
+                              -75.387789695583564,
+                              -45.642315923819055,
+                              -62.18478965672135,
+                              -45.642315923819055,
+                              -37.479789584003676,
+                              -94.242316066870202,
+                              -33.34878957184435,
+                              -105.78481610084485,
+                              3.7087105372321356,
+                              -147.78331622446487,
+                              37.485710636652684,
+                              -147.7833162244649,
+                              144.52721095172285,
+                              2.9576842192320507,
+                              188.18621108023049,
+                              138.83518461917924,
+                              183.24521106568693,
+                              138.83518461917924,
+                              146.99771095899467,
+                              114.94018454884578,
+                              83.57471077231294,
+                              118.26118455862095,
+                              -16.905789523445339,
+                              46.576184347620504,
+                              -35.009289576731895,
+                              21.061184272518656,
+                              -49.022289617978323,
+                              96.836684495559226,
+                              -58.094289644681155,
+                              99.307184502831007,
+                              -112.44528980466005,
+                              29.829854290162103,
+                              -155.10719912025542
+                           ]
+                        }
+                     ],
+                     "name" : "bone_boundingBox"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/b2",
+                           "path" : "5-3/b2",
+                           "transform" : {
+                              "skX" : 37.264499999999998,
+                              "skY" : 37.264499999999998,
+                              "x" : 20.490651060312988,
+                              "y" : 2.7655830081403256
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "b2"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              2,
+                              -0.034323198691497553,
+                              -0.99941078542888662,
+                              0.99941078542888662,
+                              -0.034323198691497553,
+                              60.102000176906586,
+                              126.40050037205221
+                           ],
+                           "edges" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0 ],
+                           "height" : 105.30000030994415,
+                           "name" : "5-3/lun",
+                           "path" : "5-3/lun",
+                           "slotPose" : [ 1, 0, 0, 1, 63.990000188350677, 78.975000232458072 ],
+                           "transform" : {
+                              "skX" : 91.966999999999999,
+                              "skY" : 91.966999999999999,
+                              "x" : 47.26414813911915,
+                              "y" : 5.513508016228676
+                           },
+                           "triangles" : [ 0, 5, 1, 1, 5, 2, 2, 5, 3, 5, 4, 3 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0.32756000000000002,
+                              0,
+                              0.66849999999999998,
+                              0,
+                              1,
+                              0.40692,
+                              1,
+                              1,
+                              0,
+                              1,
+                              0,
+                              0.53537999999999997
+                           ],
+                           "vertices" : [
+                              -17.739000052213669,
+                              -52.650000154972076,
+                              17.334000051021576,
+                              -52.650000154972076,
+                              51.435000151395798,
+                              -9.8010000288486481,
+                              51.435000151395798,
+                              52.650000154972076,
+                              -51.435000151395798,
+                              52.650000154972076,
+                              -51.435000151395798,
+                              3.7260000109672542
+                           ],
+                           "weights" : [ 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1 ],
+                           "width" : 102.8700003027916
+                        }
+                     ],
+                     "name" : "lun"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/d11",
+                           "path" : "5-3/d11",
+                           "transform" : {
+                              "skX" : -113.8463,
+                              "skY" : -113.8463,
+                              "x" : 5.9754510175883775,
+                              "y" : -6.3165420185923571
+                           },
+                           "type" : "image"
+                        },
+                        {
+                           "name" : "5-3/d22",
+                           "path" : "5-3/d22",
+                           "transform" : {
+                              "skX" : -113.8463,
+                              "skY" : -113.8463,
+                              "x" : 5.9754510175883775,
+                              "y" : -6.3165420185923571
+                           },
+                           "type" : "image"
+                        },
+                        {
+                           "name" : "5-3/d33",
+                           "path" : "5-3/d33",
+                           "transform" : {
+                              "skX" : -113.8463,
+                              "skY" : -113.8463,
+                              "x" : 5.9754510175883775,
+                              "y" : -6.3165420185923571
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "d11"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "5-3/t1",
+                           "path" : "5-3/t1",
+                           "transform" : {
+                              "skX" : 147.22749999999999,
+                              "skY" : 147.22749999999999,
+                              "x" : 13.159422038733961,
+                              "y" : 6.7490010198652746
+                           },
+                           "type" : "image"
+                        }
+                     ],
+                     "name" : "t1"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              18,
+                              -0.92976773841091931,
+                              0.36814664552355225,
+                              -0.36814664552355225,
+                              -0.92976773841091931,
+                              20.222567715394526,
+                              -16.350337528465509
+                           ],
+                           "edges" : [ 0, 1, 1, 3, 3, 2, 2, 0 ],
+                           "height" : 19.440000057220459,
+                           "name" : "5-3/yb2",
+                           "path" : "5-3/yb2",
+                           "slotPose" : [
+                              0.95420285388902637,
+                              -0.29916034769005928,
+                              0.29916034769005928,
+                              0.95420285388902637,
+                              17.215354667346386,
+                              -12.945779582840135
+                           ],
+                           "transform" : {
+                              "skX" : -175.8058,
+                              "skY" : -175.8058,
+                              "x" : 4.0493520119190221,
+                              "y" : -2.058372006058693
+                           },
+                           "triangles" : [ 1, 0, 3, 0, 2, 3 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [ 0, 0, 1, 0, 0, 1, 1, 1 ],
+                           "vertices" : [
+                              -17.415000051259995,
+                              -9.7200000286102295,
+                              17.415000051259995,
+                              -9.7200000286102295,
+                              -17.415000051259995,
+                              9.7200000286102295,
+                              17.415000051259995,
+                              9.7200000286102295
+                           ],
+                           "weights" : [ 1, 18, 1, 1, 18, 1, 1, 18, 1, 1, 18, 1 ],
+                           "width" : 34.830000102519989
+                        }
+                     ],
+                     "name" : "yb2"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              23,
+                              0.17525887128815593,
+                              0.98452238574590134,
+                              -0.98452238574590134,
+                              0.17525887128815593,
+                              -89.849870646511079,
+                              -8.480056019272693
+                           ],
+                           "edges" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 0 ],
+                           "height" : 83.430000245571136,
+                           "name" : "5-3/y22",
+                           "path" : "5-3/y22",
+                           "slotPose" : [
+                              0.82491396109542814,
+                              -0.56525830979283298,
+                              0.56525830979283298,
+                              0.82491396109542814,
+                              -90.061534461587712,
+                              8.4067290613272743
+                           ],
+                           "transform" : {
+                              "skX" : -114.3265,
+                              "skY" : -114.3265,
+                              "x" : 16.588314048826692,
+                              "y" : 3.1679100093245505
+                           },
+                           "triangles" : [ 7, 4, 3, 1, 7, 3, 1, 3, 2, 7, 6, 5, 0, 7, 1, 7, 5, 4 ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0.25520999999999999,
+                              0,
+                              0.48021000000000003,
+                              0,
+                              1,
+                              0.34515000000000001,
+                              1,
+                              0.59611999999999998,
+                              0.59375,
+                              1,
+                              0.27188000000000001,
+                              1,
+                              0,
+                              0.79029000000000005,
+                              0,
+                              0.54757
+                           ],
+                           "vertices" : [
+                              -19.035000056028366,
+                              -41.715000122785568,
+                              -1.539000004529953,
+                              -41.715000122785568,
+                              38.880000114440918,
+                              -12.919500038027763,
+                              38.880000114440918,
+                              8.0190000236034393,
+                              7.2900000214576721,
+                              41.715000122785568,
+                              -17.739000052213669,
+                              41.715000122785568,
+                              -38.880000114440918,
+                              24.219000071287155,
+                              -38.880000114440918,
+                              3.9690000116825108
+                           ],
+                           "weights" : [
+                              1,
+                              23,
+                              1,
+                              1,
+                              23,
+                              1,
+                              1,
+                              23,
+                              1,
+                              1,
+                              23,
+                              1,
+                              1,
+                              23,
+                              1,
+                              1,
+                              23,
+                              1,
+                              1,
+                              23,
+                              1,
+                              1,
+                              23,
+                              1
+                           ],
+                           "width" : 77.760000228881836
+                        }
+                     ],
+                     "name" : "y22"
+                  }
+               ]
+            }
+         ],
+         "slot" : [
+            {
+               "color" : {},
+               "name" : "32d",
+               "parent" : "32d"
+            },
+            {
+               "color" : {},
+               "name" : "32s",
+               "parent" : "32s",
+               "z" : 1
+            },
+            {
+               "color" : {},
+               "name" : "y22",
+               "parent" : "y22",
+               "z" : 2
+            },
+            {
+               "color" : {},
+               "name" : "yy_0",
+               "parent" : "yy_0",
+               "z" : 3
+            },
+            {
+               "color" : {},
+               "name" : "lun2",
+               "parent" : "lun2",
+               "z" : 4
+            },
+            {
+               "color" : {},
+               "name" : "d11",
+               "parent" : "d11",
+               "z" : 5
+            },
+            {
+               "color" : {},
+               "name" : "chi2",
+               "parent" : "chi2",
+               "z" : 6
+            },
+            {
+               "color" : {},
+               "name" : "ccc",
+               "parent" : "ccc",
+               "z" : 7
+            },
+            {
+               "color" : {},
+               "name" : "t2",
+               "parent" : "t2",
+               "z" : 8
+            },
+            {
+               "color" : {},
+               "name" : "b3",
+               "parent" : "b3",
+               "z" : 9
+            },
+            {
+               "color" : {},
+               "name" : "b2",
+               "parent" : "b2",
+               "z" : 10
+            },
+            {
+               "color" : {},
+               "name" : "b1",
+               "parent" : "b1",
+               "z" : 11
+            },
+            {
+               "color" : {},
+               "name" : "t1",
+               "parent" : "t1",
+               "z" : 12
+            },
+            {
+               "color" : {},
+               "name" : "y1",
+               "parent" : "y1",
+               "z" : 13
+            },
+            {
+               "color" : {},
+               "name" : "st",
+               "parent" : "st",
+               "z" : 14
+            },
+            {
+               "color" : {},
+               "name" : "yy",
+               "parent" : "yy",
+               "z" : 15
+            },
+            {
+               "color" : {},
+               "name" : "lun",
+               "parent" : "lun",
+               "z" : 16
+            },
+            {
+               "color" : {},
+               "name" : "chi",
+               "parent" : "chi",
+               "z" : 17
+            },
+            {
+               "color" : {},
+               "name" : "c2",
+               "parent" : "c2",
+               "z" : 18
+            },
+            {
+               "color" : {},
+               "name" : "c3",
+               "parent" : "c3",
+               "z" : 19
+            },
+            {
+               "color" : {},
+               "name" : "c4",
+               "parent" : "c4",
+               "z" : 20
+            },
+            {
+               "color" : {},
+               "displayIndex" : 1,
+               "name" : "d3",
+               "parent" : "d3",
+               "z" : 21
+            },
+            {
+               "color" : {},
+               "name" : "yb2",
+               "parent" : "yb2",
+               "z" : 22
+            },
+            {
+               "color" : {},
+               "name" : "yb1",
+               "parent" : "yb1",
+               "z" : 23
+            },
+            {
+               "color" : {},
+               "name" : "ys",
+               "parent" : "ys",
+               "z" : 24
+            },
+            {
+               "color" : {},
+               "name" : "bone_boundingBox",
+               "parent" : "bone",
+               "z" : 25
+            }
+         ],
+         "type" : "Armature"
+      }
+   ],
+   "frameRate" : 24,
+   "isGlobal" : 0,
+   "name" : "b1_p5_3",
+   "version" : "5.0"
+}

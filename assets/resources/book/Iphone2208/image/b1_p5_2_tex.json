@@ -1,0 +1,36 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 93,
+         "name" : "5-2/g2",
+         "width" : 52,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 66,
+         "name" : "5-2/deng2",
+         "width" : 23,
+         "x" : 106,
+         "y" : 0
+      },
+      {
+         "height" : 97,
+         "name" : "5-2/g1",
+         "width" : 49,
+         "x" : 55,
+         "y" : 0
+      },
+      {
+         "height" : 69,
+         "name" : "5-2/deng1",
+         "width" : 20,
+         "x" : 131,
+         "y" : 0
+      }
+   ],
+   "height" : 105,
+   "imagePath" : "b1_p5_2_tex.png",
+   "name" : "b1_p5_2",
+   "width" : 209
+}

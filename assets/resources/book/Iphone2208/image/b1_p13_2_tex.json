@@ -1,0 +1,99 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 189,
+         "name" : "13-2/gm1",
+         "width" : 45,
+         "x" : 358,
+         "y" : 576
+      },
+      {
+         "height" : 213,
+         "name" : "13-2/zm",
+         "width" : 38,
+         "x" : 405,
+         "y" : 576
+      },
+      {
+         "height" : 156,
+         "name" : "13-2/zj3",
+         "width" : 127,
+         "x" : 0,
+         "y" : 576
+      },
+      {
+         "height" : 190,
+         "name" : "13-2/gm",
+         "width" : 47,
+         "x" : 266,
+         "y" : 576
+      },
+      {
+         "height" : 128,
+         "name" : "13-2/zj4",
+         "width" : 134,
+         "x" : 130,
+         "y" : 576
+      },
+      {
+         "height" : 68,
+         "name" : "13-2/zj2",
+         "width" : 71,
+         "x" : 130,
+         "y" : 707
+      },
+      {
+         "height" : 38,
+         "name" : "13-2/zj1",
+         "width" : 46,
+         "x" : 255,
+         "y" : 768
+      },
+      {
+         "height" : 31,
+         "name" : "13-2/jzd",
+         "width" : 68,
+         "x" : 0,
+         "y" : 777
+      },
+      {
+         "height" : 77,
+         "name" : "13-2/st",
+         "width" : 50,
+         "x" : 203,
+         "y" : 707
+      },
+      {
+         "height" : 28,
+         "name" : "13-2/zjz",
+         "width" : 27,
+         "x" : 358,
+         "y" : 767
+      },
+      {
+         "height" : 24,
+         "name" : "13-2/yjz",
+         "width" : 56,
+         "x" : 0,
+         "y" : 734
+      },
+      {
+         "height" : 574,
+         "name" : "13-2/zddd",
+         "width" : 402,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 217,
+         "name" : "13-2/ym",
+         "width" : 41,
+         "x" : 315,
+         "y" : 576
+      }
+   ],
+   "height" : 831,
+   "imagePath" : "b1_p13_2_tex.png",
+   "name" : "b1_p13_2",
+   "width" : 831
+}

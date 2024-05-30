@@ -1,0 +1,43 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 154,
+         "name" : "2/yy",
+         "width" : 49,
+         "x" : 341,
+         "y" : 0
+      },
+      {
+         "height" : 112,
+         "name" : "2/4",
+         "width" : 38,
+         "x" : 260,
+         "y" : 123
+      },
+      {
+         "height" : 373,
+         "name" : "2/3",
+         "width" : 154,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 99,
+         "name" : "2/2",
+         "width" : 101,
+         "x" : 157,
+         "y" : 123
+      },
+      {
+         "height" : 121,
+         "name" : "2/1",
+         "width" : 182,
+         "x" : 157,
+         "y" : 0
+      }
+   ],
+   "height" : 416,
+   "imagePath" : "b1_p4_6_tex.png",
+   "name" : "b1_p4_6",
+   "width" : 416
+}

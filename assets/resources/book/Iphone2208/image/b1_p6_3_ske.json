@@ -1,0 +1,2942 @@
+{
+   "armature" : [
+      {
+         "aabb" : {
+            "height" : 1020.0330030024052,
+            "width" : 1946.7135057300331,
+            "x" : -1106.6928782574832,
+            "y" : -537.77925158292055
+         },
+         "animation" : [
+            {
+               "bone" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "root"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "bone"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -6.3418999999999999,
+                              "skY" : -6.3418999999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : 71.671716210961335,
+                              "y" : 0.21489300063252448
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 9.2185000000000006,
+                              "skY" : 9.2185000000000006
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -8.9633000000000003,
+                              "skY" : -8.9633000000000003,
+                              "x" : 2.5589520075321195,
+                              "y" : 26.14056307694316
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -27.887652082085612,
+                              "y" : -31.109994091570378
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y21"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : 14.778531043499708,
+                              "y" : 20.020851058930159
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : 14.886261043816805,
+                              "y" : 8.252766024291514
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y22"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -12.738300000000001,
+                              "skY" : -12.738300000000001,
+                              "x" : 3.7040490109026432,
+                              "y" : -9.1524330269396312
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -43.14254412698746,
+                              "y" : -29.749113087564705
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -67.682628199219707,
+                              "y" : 0.82409400242567066
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 7.7686000000000002,
+                              "skY" : 7.7686000000000002,
+                              "x" : 7.8152850230038169,
+                              "y" : -30.360987089365722
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 16.346599999999999,
+                              "skY" : 16.346599999999999,
+                              "x" : 49.552236145853996,
+                              "y" : -68.023800200223931
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y23"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -60.073812176823616,
+                              "y" : 5.7766770170032977
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y24"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 5.1151999999999997,
+                              "skY" : 5.1151999999999997,
+                              "x" : -67.075614197432998,
+                              "y" : 84.657393249183883
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -9.7269000000000005,
+                              "skY" : -9.7269000000000005,
+                              "x" : -16.371720048189164,
+                              "y" : -7.9623810234367847
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 2.6539999999999999,
+                              "skY" : 2.6539999999999999,
+                              "x" : 20.278593059688806,
+                              "y" : -40.649283119648693
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan5"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 8.6691000000000003,
+                              "skY" : 8.6691000000000003,
+                              "x" : -22.700898066818713,
+                              "y" : -1.2680550037324427
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan13"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 2.9961000000000002,
+                              "skY" : 2.9961000000000002,
+                              "x" : -0.4800870014131069,
+                              "y" : -17.185122050583363
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan6"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -89.367462263047699,
+                              "y" : -106.3791633131206
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd5"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -6.7199999999999998,
+                              "skY" : -6.7199999999999998,
+                              "x" : 21.507282063305379,
+                              "y" : 19.912959058612586
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan14"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -79.838865235000853,
+                              "y" : 19.859823058456183
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan7"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -49.766724146485323,
+                              "y" : 16.587504048824311
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd6"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -30.938517091065648,
+                              "y" : -29.197827085942031
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd7"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -55.246779162615539,
+                              "y" : -40.215042118370533
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan8"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 14.52,
+                              "skY" : 14.52,
+                              "x" : 20.332863059848545,
+                              "y" : -0.84248100247979163
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan15"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 16.748200000000001,
+                              "skY" : 16.748200000000001,
+                              "x" : -99.574677293092023,
+                              "y" : 28.041471082538369
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan10"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 19.786999999999999,
+                              "skY" : 19.786999999999999,
+                              "x" : -70.881318208634852,
+                              "y" : 29.940597088128332
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan9"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -16.0975,
+                              "skY" : -16.0975,
+                              "x" : 8.3522340245842948,
+                              "y" : -36.53918110755086
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan17"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -19.035900000000002,
+                              "skY" : -19.035900000000002,
+                              "x" : -25.357698074638844,
+                              "y" : 18.531828054547308
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan16"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -16.073599999999999,
+                              "skY" : -16.073599999999999,
+                              "x" : 39.417678116023545,
+                              "y" : -21.119778062164784
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan12"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -14.200100000000001,
+                              "skY" : -14.200100000000001,
+                              "x" : -56.150010165274139,
+                              "y" : -153.69304545238614
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan11"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -10.3294,
+                              "skY" : -10.3294,
+                              "x" : -52.164000153541572,
+                              "y" : -27.543159081071618
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan18"
+                  }
+               ],
+               "duration" : 60,
+               "ffd" : [],
+               "frame" : [],
+               "ik" : [],
+               "name" : "newAnimation",
+               "playTimes" : 0,
+               "slot" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "y2"
+                  }
+               ]
+            },
+            {
+               "bone" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "root"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "bone"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -6.3418999999999999,
+                              "skY" : -6.3418999999999999
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : 71.671716210961335,
+                              "y" : 0.21489300063252448
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 9.2185000000000006,
+                              "skY" : 9.2185000000000006
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -8.9633000000000003,
+                              "skY" : -8.9633000000000003,
+                              "x" : 2.5589520075321195,
+                              "y" : 26.14056307694316
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -27.887652082085612,
+                              "y" : -31.109994091570378
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y21"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : 14.778531043499708,
+                              "y" : 20.020851058930159
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd1"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : 14.886261043816805,
+                              "y" : 8.252766024291514
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y22"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -12.738300000000001,
+                              "skY" : -12.738300000000001,
+                              "x" : 3.7040490109026432,
+                              "y" : -9.1524330269396312
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -43.14254412698746,
+                              "y" : -29.749113087564705
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan2"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -67.682628199219707,
+                              "y" : 0.82409400242567066
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 7.7686000000000002,
+                              "skY" : 7.7686000000000002,
+                              "x" : 7.8152850230038169,
+                              "y" : -30.360987089365722
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd3"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 16.346599999999999,
+                              "skY" : 16.346599999999999,
+                              "x" : 49.552236145853996,
+                              "y" : -68.023800200223931
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y23"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -60.073812176823616,
+                              "y" : 5.7766770170032977
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "y24"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 5.1151999999999997,
+                              "skY" : 5.1151999999999997,
+                              "x" : -67.075614197432998,
+                              "y" : 84.657393249183883
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -9.7269000000000005,
+                              "skY" : -9.7269000000000005,
+                              "x" : -16.371720048189164,
+                              "y" : -7.9623810234367847
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan4"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 2.6539999999999999,
+                              "skY" : 2.6539999999999999,
+                              "x" : 20.278593059688806,
+                              "y" : -40.649283119648693
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan5"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 8.6691000000000003,
+                              "skY" : 8.6691000000000003,
+                              "x" : -22.700898066818713,
+                              "y" : -1.2680550037324427
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan13"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 2.9961000000000002,
+                              "skY" : 2.9961000000000002,
+                              "x" : -0.4800870014131069,
+                              "y" : -17.185122050583363
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan6"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -89.367462263047699,
+                              "y" : -106.3791633131206
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd5"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -6.7199999999999998,
+                              "skY" : -6.7199999999999998,
+                              "x" : 21.507282063305379,
+                              "y" : 19.912959058612586
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan14"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -79.838865235000853,
+                              "y" : 19.859823058456183
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan7"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -49.766724146485323,
+                              "y" : 16.587504048824311
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd6"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -30.938517091065648,
+                              "y" : -29.197827085942031
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "asd7"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "x" : -55.246779162615539,
+                              "y" : -40.215042118370533
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan8"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 9.7022999999999993,
+                              "skY" : 9.7022999999999993,
+                              "x" : 20.332863059848545,
+                              "y" : -0.84248100247979163
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan15"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 16.748200000000001,
+                              "skY" : 16.748200000000001,
+                              "x" : -99.574677293092023,
+                              "y" : 28.041471082538369
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan10"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : 19.786999999999999,
+                              "skY" : 19.786999999999999,
+                              "x" : -70.881318208634852,
+                              "y" : 29.940597088128332
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan9"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -8.9763000000000002,
+                              "skY" : -8.9763000000000002,
+                              "x" : 16.147512047529219,
+                              "y" : -8.1225990239083767
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan17"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -19.035900000000002,
+                              "skY" : -19.035900000000002,
+                              "x" : 4.9343580145239834,
+                              "y" : -4.4602650131285193
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan16"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -16.073599999999999,
+                              "skY" : -16.073599999999999,
+                              "x" : 39.417678116023545,
+                              "y" : -21.119778062164784
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan12"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -14.200100000000001,
+                              "skY" : -14.200100000000001,
+                              "x" : -56.150010165274139,
+                              "y" : -153.69304545238614
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan11"
+                  },
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "transform" : {},
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "transform" : {
+                              "skX" : -10.3294,
+                              "skY" : -10.3294,
+                              "x" : -52.164000153541572,
+                              "y" : -27.543159081071618
+                           },
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "transform" : {}
+                        }
+                     ],
+                     "name" : "yan18"
+                  }
+               ],
+               "duration" : 60,
+               "ffd" : [],
+               "frame" : [],
+               "ik" : [],
+               "name" : "z0",
+               "playTimes" : 0,
+               "slot" : [
+                  {
+                     "frame" : [
+                        {
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 30,
+                           "tweenEasing" : 0
+                        },
+                        {
+                           "duration" : 0,
+                           "tweenEasing" : null
+                        }
+                     ],
+                     "name" : "y2"
+                  }
+               ]
+            }
+         ],
+         "bone" : [
+            {
+               "name" : "root",
+               "transform" : {
+                  "scX" : 1.2345678976006922,
+                  "scY" : 1.2345678976006922,
+                  "x" : 161.99999999999997,
+                  "y" : 32.999999999999993
+               }
+            },
+            {
+               "length" : 365.31000107526779,
+               "name" : "bone",
+               "parent" : "root",
+               "transform" : {
+                  "skX" : -2.2706,
+                  "skY" : -2.2706,
+                  "x" : 259.76700076460838,
+                  "y" : 521.35650153458118
+               }
+            },
+            {
+               "length" : 34.830000102519989,
+               "name" : "asd",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : -78.770600000000002,
+                  "skY" : -78.770600000000002,
+                  "x" : 186.93852355024217,
+                  "y" : -76.813029226094486
+               }
+            },
+            {
+               "length" : 44.550000131130219,
+               "name" : "y2",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : -58.604100000000003,
+                  "skY" : -58.604100000000003,
+                  "x" : 2.0868030061423779,
+                  "y" : -698.68591405653956
+               }
+            },
+            {
+               "length" : 21.060000061988831,
+               "name" : "yan",
+               "parent" : "bone",
+               "transform" : {
+                  "skX" : -55.3157,
+                  "skY" : -55.3157,
+                  "x" : 85.160727250665431,
+                  "y" : -49.152582144677638
+               }
+            },
+            {
+               "length" : 98.010000288486481,
+               "name" : "yan1",
+               "parent" : "yan",
+               "transform" : {
+                  "skX" : -121.7758,
+                  "skY" : -121.7758,
+                  "x" : 13.4165160394907,
+                  "y" : -78.225750230252743
+               }
+            },
+            {
+               "length" : 52.650000154972076,
+               "name" : "y21",
+               "parent" : "y2",
+               "transform" : {
+                  "skX" : 5.5530999999999997,
+                  "skY" : 5.5530999999999997,
+                  "x" : 98.992125291377306,
+                  "y" : 57.59707516953349
+               }
+            },
+            {
+               "length" : 63.990000188350677,
+               "name" : "asd1",
+               "parent" : "asd",
+               "transform" : {
+                  "skX" : 48.7029,
+                  "skY" : 48.7029,
+                  "x" : 114.55441233718395,
+                  "y" : 57.996162170708182
+               }
+            },
+            {
+               "length" : 49.410000145435333,
+               "name" : "y22",
+               "parent" : "y21",
+               "transform" : {
+                  "skX" : -71.062799999999996,
+                  "skY" : -71.062799999999996,
+                  "x" : 113.21604933324456,
+                  "y" : 78.574617231279618
+               }
+            },
+            {
+               "length" : 60.750000178813934,
+               "name" : "asd2",
+               "parent" : "asd1",
+               "transform" : {
+                  "skX" : -59.358600000000003,
+                  "skY" : -59.358600000000003,
+                  "x" : 151.70862644654514,
+                  "y" : -51.78151815241575
+               }
+            },
+            {
+               "length" : 79.380000233650208,
+               "name" : "yan2",
+               "parent" : "yan1",
+               "transform" : {
+                  "skX" : 177.38820000000001,
+                  "skY" : 177.38820000000001,
+                  "x" : 148.48093843704461,
+                  "y" : 79.918893235236411
+               }
+            },
+            {
+               "length" : 71.28000020980835,
+               "name" : "yan3",
+               "parent" : "yan2",
+               "transform" : {
+                  "skX" : 175.32429999999999,
+                  "skY" : 175.32429999999999,
+                  "x" : -7.5702600222826009,
+                  "y" : -70.772778208315373
+               }
+            },
+            {
+               "length" : 76.95000022649765,
+               "name" : "asd3",
+               "parent" : "asd2",
+               "transform" : {
+                  "skX" : -47.142699999999998,
+                  "skY" : -47.142699999999998,
+                  "x" : 140.5530634137094,
+                  "y" : -68.281947200983765
+               }
+            },
+            {
+               "length" : 85.860000252723694,
+               "name" : "y23",
+               "parent" : "y22",
+               "transform" : {
+                  "skX" : -63.2547,
+                  "skY" : -63.2547,
+                  "x" : 100.37463329544664,
+                  "y" : 13.843305040746927
+               }
+            },
+            {
+               "length" : 58.320000171661377,
+               "name" : "y24",
+               "parent" : "y23",
+               "transform" : {
+                  "skX" : -142.571,
+                  "skY" : -142.571,
+                  "x" : 13.929084040999413,
+                  "y" : 84.155922247707835
+               }
+            },
+            {
+               "length" : 89.100000262260437,
+               "name" : "asd4",
+               "parent" : "asd3",
+               "transform" : {
+                  "skX" : 92.191500000000005,
+                  "skY" : 92.191500000000005,
+                  "x" : 58.60665917250514,
+                  "y" : 139.89591041177513
+               }
+            },
+            {
+               "length" : 92.34000027179718,
+               "name" : "yan4",
+               "parent" : "yan3",
+               "transform" : {
+                  "skX" : -175.05269999999999,
+                  "skY" : -175.05269999999999,
+                  "x" : -122.12718335947395,
+                  "y" : 45.537309134036299
+               }
+            },
+            {
+               "length" : 108.5400003194809,
+               "name" : "yan5",
+               "parent" : "yan3",
+               "transform" : {
+                  "skX" : 16.300599999999999,
+                  "skY" : 16.300599999999999,
+                  "x" : 95.179536280155176,
+                  "y" : 88.730478261172777
+               }
+            },
+            {
+               "length" : 61.56000018119812,
+               "name" : "yan13",
+               "parent" : "yan5",
+               "transform" : {
+                  "skX" : 7.7591999999999999,
+                  "skY" : 7.7591999999999999,
+                  "x" : 197.29550758072733,
+                  "y" : 36.369972107052803
+               }
+            },
+            {
+               "length" : 116.64000034332275,
+               "name" : "yan6",
+               "parent" : "yan4",
+               "transform" : {
+                  "skX" : -161.16419999999999,
+                  "skY" : -161.16419999999999,
+                  "x" : -45.276246133267882,
+                  "y" : -45.753255134671925
+               }
+            },
+            {
+               "length" : 72.090000212192535,
+               "name" : "asd5",
+               "parent" : "asd4",
+               "transform" : {
+                  "skX" : -119.9862,
+                  "skY" : -119.9862,
+                  "x" : 81.425817239671943,
+                  "y" : -138.52765840774777
+               }
+            },
+            {
+               "length" : 63.180000185966492,
+               "name" : "yan14",
+               "parent" : "yan13",
+               "transform" : {
+                  "skX" : 128.0532,
+                  "skY" : 128.0532,
+                  "x" : -46.953189138203861,
+                  "y" : 76.310424224615105
+               }
+            },
+            {
+               "length" : 95.580000281333923,
+               "name" : "yan7",
+               "parent" : "yan6",
+               "transform" : {
+                  "skX" : 142.23140000000001,
+                  "skY" : 142.23140000000001,
+                  "x" : 125.72293537005783,
+                  "y" : 53.547642157614227
+               }
+            },
+            {
+               "length" : 135.27000039815903,
+               "name" : "asd6",
+               "parent" : "asd5",
+               "transform" : {
+                  "skX" : 155.512,
+                  "skY" : 155.512,
+                  "x" : -84.869856249809274,
+                  "y" : 147.37877143380044
+               }
+            },
+            {
+               "length" : 104.49000030755997,
+               "name" : "asd7",
+               "parent" : "asd6",
+               "transform" : {
+                  "skX" : -166.92869999999999,
+                  "skY" : -166.92869999999999,
+                  "x" : -12.223791035979987,
+                  "y" : -92.135556271195412
+               }
+            },
+            {
+               "length" : 93.150000274181366,
+               "name" : "yan8",
+               "parent" : "yan7",
+               "transform" : {
+                  "skX" : -137.38339999999999,
+                  "skY" : -137.38339999999999,
+                  "x" : 61.55457318118215,
+                  "y" : -101.97559830015898
+               }
+            },
+            {
+               "length" : 137.70000040531158,
+               "name" : "yan15",
+               "parent" : "yan14",
+               "transform" : {
+                  "skX" : -136.65219999999999,
+                  "skY" : -136.65219999999999,
+                  "x" : -92.939076273560516,
+                  "y" : -162.63593147870898
+               }
+            },
+            {
+               "length" : 98.820000290870667,
+               "name" : "yan10",
+               "parent" : "yan8",
+               "transform" : {
+                  "skX" : 85.928200000000004,
+                  "skY" : 85.928200000000004,
+                  "x" : 91.170279268354179,
+                  "y" : 104.35659330716729
+               }
+            },
+            {
+               "length" : 125.5500003695488,
+               "name" : "yan9",
+               "parent" : "yan8",
+               "transform" : {
+                  "skX" : -28.0472,
+                  "skY" : -28.0472,
+                  "x" : 179.79108352920414,
+                  "y" : 36.309222106873989
+               }
+            },
+            {
+               "length" : 184.68000054359436,
+               "name" : "yan17",
+               "parent" : "yan15",
+               "transform" : {
+                  "skX" : 142.72749999999999,
+                  "skY" : 142.72749999999999,
+                  "x" : 324.00145895367859,
+                  "y" : 51.457356151461603
+               }
+            },
+            {
+               "length" : 174.96000051498413,
+               "name" : "yan16",
+               "parent" : "yan15",
+               "transform" : {
+                  "skX" : -3.9016000000000002,
+                  "skY" : -3.9016000000000002,
+                  "x" : 332.37442897832392,
+                  "y" : -23.816025070101023
+               }
+            },
+            {
+               "length" : 100.44000029563904,
+               "name" : "yan12",
+               "parent" : "yan10",
+               "transform" : {
+                  "skX" : 57.057899999999997,
+                  "skY" : 57.057899999999997,
+                  "x" : 212.31363662493226,
+                  "y" : -55.803411164253951
+               }
+            },
+            {
+               "length" : 135.27000039815903,
+               "name" : "yan11",
+               "parent" : "yan10",
+               "transform" : {
+                  "skX" : -89.113100000000003,
+                  "skY" : -89.113100000000003,
+                  "x" : 162.58287647855283,
+                  "y" : -141.20049641561508
+               }
+            },
+            {
+               "length" : 232.47000068426132,
+               "name" : "yan18",
+               "parent" : "yan17",
+               "transform" : {
+                  "skX" : -135.863,
+                  "skY" : -135.863,
+                  "x" : -58.759506172955028,
+                  "y" : -265.78473378232121
+               }
+            }
+         ],
+         "canvas" : {
+            "height" : 1012.5000029802322,
+            "width" : 1948.0500057339668,
+            "x" : -131.2200003862381,
+            "y" : -26.730000078678131
+         },
+         "defaultActions" : [
+            {
+               "gotoAndPlay" : "newAnimation"
+            }
+         ],
+         "frameRate" : 24,
+         "ik" : [],
+         "name" : "b1_p6_3_arm0",
+         "skin" : [
+            {
+               "name" : "",
+               "slot" : [
+                  {
+                     "display" : [
+                        {
+                           "bonePose" : [
+                              14,
+                              0.88466262228007109,
+                              0.46623175003483819,
+                              -0.46623175003483819,
+                              0.88466262228007109,
+                              385.47900113463402,
+                              -453.35700133442884,
+                              13,
+                              -0.98588218244576054,
+                              0.16744050386923637,
+                              -0.16744050386923637,
+                              -0.98588218244576054,
+                              413.30250121653069,
+                              -372.72150109708309,
+                              8,
+                              -0.59319903804984986,
+                              -0.80505583735336794,
+                              0.80505583735336794,
+                              -0.59319903804984986,
+                              461.7000013589859,
+                              -283.70250083506107,
+                              6,
+                              0.56897038818823431,
+                              -0.82235801045829771,
+                              0.82235801045829771,
+                              0.56897038818823431,
+                              332.66700097918505,
+                              -235.30500069260597,
+                              3,
+                              0.48672195701089449,
+                              -0.87355694523224114,
+                              0.87355694523224114,
+                              0.48672195701089449,
+                              234.17100068926814,
+                              -176.86350052058688
+                           ],
+                           "edges" : [
+                              0,
+                              1,
+                              1,
+                              2,
+                              2,
+                              3,
+                              3,
+                              4,
+                              4,
+                              5,
+                              5,
+                              6,
+                              6,
+                              7,
+                              7,
+                              8,
+                              8,
+                              9,
+                              9,
+                              10,
+                              10,
+                              11,
+                              11,
+                              12,
+                              12,
+                              13,
+                              13,
+                              14,
+                              14,
+                              15,
+                              15,
+                              16,
+                              16,
+                              17,
+                              17,
+                              18,
+                              18,
+                              19,
+                              19,
+                              20,
+                              20,
+                              21,
+                              21,
+                              22,
+                              22,
+                              23,
+                              23,
+                              24,
+                              24,
+                              25,
+                              25,
+                              26,
+                              26,
+                              27,
+                              27,
+                              28,
+                              28,
+                              29,
+                              29,
+                              30,
+                              30,
+                              31,
+                              31,
+                              32,
+                              32,
+                              33,
+                              33,
+                              34,
+                              34,
+                              35,
+                              35,
+                              36,
+                              36,
+                              37,
+                              37,
+                              38,
+                              38,
+                              39,
+                              39,
+                              40,
+                              40,
+                              41,
+                              41,
+                              42,
+                              42,
+                              43,
+                              43,
+                              44,
+                              44,
+                              45,
+                              45,
+                              46,
+                              46,
+                              47,
+                              47,
+                              48,
+                              48,
+                              0
+                           ],
+                           "height" : 325.62000095844269,
+                           "name" : "yan/y2",
+                           "path" : "yan/y2",
+                           "slotPose" : [
+                              0.99999999999999978,
+                              5.5511151231257827e-17,
+                              -5.5511151231257827e-17,
+                              0.99999999999999978,
+                              375.43500110507,
+                              -315.09000092744827
+                           ],
+                           "transform" : {
+                              "skX" : 126.3844,
+                              "skY" : 126.3844,
+                              "x" : 76.440996224999424,
+                              "y" : -50.829120149612429
+                           },
+                           "triangles" : [
+                              17,
+                              14,
+                              16,
+                              16,
+                              14,
+                              15,
+                              18,
+                              13,
+                              17,
+                              17,
+                              13,
+                              14,
+                              22,
+                              23,
+                              21,
+                              23,
+                              20,
+                              21,
+                              24,
+                              19,
+                              20,
+                              23,
+                              24,
+                              20,
+                              19,
+                              12,
+                              18,
+                              12,
+                              13,
+                              18,
+                              37,
+                              12,
+                              19,
+                              24,
+                              37,
+                              19,
+                              29,
+                              30,
+                              25,
+                              25,
+                              30,
+                              24,
+                              30,
+                              37,
+                              24,
+                              30,
+                              36,
+                              37,
+                              26,
+                              28,
+                              25,
+                              28,
+                              29,
+                              25,
+                              37,
+                              11,
+                              12,
+                              10,
+                              8,
+                              9,
+                              10,
+                              7,
+                              8,
+                              37,
+                              38,
+                              11,
+                              30,
+                              31,
+                              36,
+                              11,
+                              7,
+                              10,
+                              45,
+                              46,
+                              7,
+                              45,
+                              7,
+                              11,
+                              38,
+                              45,
+                              11,
+                              31,
+                              35,
+                              36,
+                              39,
+                              45,
+                              38,
+                              46,
+                              6,
+                              7,
+                              27,
+                              28,
+                              26,
+                              31,
+                              32,
+                              35,
+                              32,
+                              33,
+                              35,
+                              46,
+                              47,
+                              6,
+                              44,
+                              45,
+                              39,
+                              40,
+                              44,
+                              39,
+                              33,
+                              34,
+                              35,
+                              47,
+                              5,
+                              6,
+                              48,
+                              5,
+                              47,
+                              40,
+                              43,
+                              44,
+                              41,
+                              43,
+                              40,
+                              41,
+                              42,
+                              43,
+                              48,
+                              0,
+                              5,
+                              0,
+                              4,
+                              5,
+                              1,
+                              2,
+                              3,
+                              1,
+                              3,
+                              4,
+                              0,
+                              1,
+                              4
+                           ],
+                           "type" : "mesh",
+                           "userEdges" : [],
+                           "uvs" : [
+                              0,
+                              0.82760999999999996,
+                              0,
+                              0.94464999999999999,
+                              0.01545,
+                              1,
+                              0.046879999999999998,
+                              1,
+                              0.059619999999999999,
+                              0.92823,
+                              0.13022,
+                              0.87363000000000002,
+                              0.35067999999999999,
+                              0.82040000000000002,
+                              0.51653000000000004,
+                              0.78532000000000002,
+                              0.63482000000000005,
+                              0.76580000000000004,
+                              0.65610000000000002,
+                              0.71343000000000001,
+                              0.59904999999999997,
+                              0.68769000000000002,
+                              0.56679999999999997,
+                              0.67201,
+                              0.62709999999999999,
+                              0.66654000000000002,
+                              0.79146000000000005,
+                              0.66740999999999995,
+                              0.97872999999999999,
+                              0.66493000000000002,
+                              1,
+                              0.64700999999999997,
+                              1,
+                              0.60933000000000004,
+                              0.97194999999999998,
+                              0.55871000000000004,
+                              0.90122000000000002,
+                              0.50075000000000003,
+                              0.87153999999999998,
+                              0.41119,
+                              0.92168000000000005,
+                              0.32139000000000001,
+                              0.95067999999999997,
+                              0.23930000000000001,
+                              0.93279000000000001,
+                              0.15958,
+                              0.84336,
+                              0.10571999999999999,
+                              0.71491000000000005,
+                              0.072889999999999996,
+                              0.629,
+                              0.04403,
+                              0.52424999999999999,
+                              0,
+                              0.41707,
+                              0,
+                              0.40854000000000001,
+                              0.066669999999999993,
+                              0.37534000000000001,
+                              0.11667,
+                              0.33278999999999997,
+                              0.1699,
+                              0.21789,
+                              0.26356000000000002,
+                              0.16938,
+                              0.30187000000000003,
+                              0.14038,
+                              0.38357999999999998,
+                              0.15487999999999999,
+                              0.46268999999999999,
+                              0.27750999999999998,
+                              0.50958000000000003,
+                              0.36165000000000003,
+                              0.52822999999999998,
+                              0.48930000000000001,
+                              0.55174000000000001,
+                              0.48171000000000003,
+                              0.56106999999999996,
+                              0.36937999999999999,
+                              0.55871000000000004,
+                              0.2477,
+                              0.56032000000000004,
+                              0.13875000000000001,
+                              0.60485,
+                              0.12683,
+                              0.65559999999999996,
+                              0.18901999999999999,
+                              0.66815999999999998,
+                              0.29282000000000002,
+                              0.68133999999999995,
+                              0.32588,
+                              0.68557000000000001,
+                              0.32588,
+                              0.70223999999999998,
+                              0.26652999999999999,
+                              0.71020000000000005,
+                              0.10989,
+                              0.74453000000000003
+                           ],
+                           "vertices" : [
+                              -149.44500043988228,
+                              106.67700031399725,
+                              -149.44500043988228,
+                              144.78750042617321,
+                              -144.82800042629242,
+                              162.81000047922134,
+                              -135.43200039863586,
+                              162.81000047922134,
+                              -131.62500038743019,
+                              139.44150041043758,
+                              -110.52450032532214,
+                              121.66200035810469,
+                              -44.631000131368637,
+                              104.32800030708314,
+                              4.9410000145435333,
+                              92.90700027346611,
+                              40.297500118613243,
+                              86.548500254750252,
+                              46.656000137329102,
+                              69.498000204563141,
+                              29.605500087141987,
+                              61.114500179886818,
+                              19.96650005877018,
+                              56.011500164866455,
+                              37.989000111818314,
+                              54.229500159621239,
+                              87.115500256419182,
+                              54.513000160455704,
+                              143.08650042116642,
+                              53.703000158071518,
+                              149.44500043988228,
+                              47.87100014090538,
+                              149.44500043988228,
+                              35.599500104784966,
+                              141.06150041520596,
+                              19.116000056266785,
+                              119.92050035297872,
+                              0.24300000071525574,
+                              111.05100032687187,
+                              -28.917000085115436,
+                              126.03600037097931,
+                              -58.15800017118454,
+                              134.7030003964901,
+                              -84.888000249862671,
+                              129.35700038075447,
+                              -110.84850032627583,
+                              102.62700030207634,
+                              -128.38500037789345,
+                              64.233000189065933,
+                              -139.0770004093647,
+                              38.556000113487244,
+                              -148.47300043702126,
+                              7.2495000213384619,
+                              -162.81000047922134,
+                              -24.786000072956085,
+                              -162.81000047922134,
+                              -27.33750008046627,
+                              -141.10200041532516,
+                              -37.260000109672546,
+                              -124.82100036740303,
+                              -49.977000147104263,
+                              -107.48700031638144,
+                              -84.321000248193741,
+                              -76.990500226616859,
+                              -98.820000290870667,
+                              -64.516500189900398,
+                              -107.48700031638144,
+                              -37.908000111579895,
+                              -103.15350030362606,
+                              -12.150000035762787,
+                              -66.501000195741653,
+                              3.1185000091791153,
+                              -41.350500121712685,
+                              9.1935000270605087,
+                              -3.1995000094175339,
+                              16.848000049591064,
+                              -5.4675000160932541,
+                              19.885500058531761,
+                              -39.042000114917755,
+                              19.116000056266785,
+                              -75.411000221967697,
+                              19.642500057816505,
+                              -107.97300031781198,
+                              34.141500100493431,
+                              -111.53700032830237,
+                              50.665500149130821,
+                              -92.94750027358532,
+                              54.756000161170952,
+                              -61.924500182271004,
+                              59.049000173807151,
+                              -52.042500153183937,
+                              60.426000177860253,
+                              -52.042500153183937,
+                              65.853000193834305,
+                              -69.781500205397606,
+                              68.445000201463699,
+                              -116.59950034320353,
+                              79.623000234365463
+                           ],
+                           "weights" : [
+                              2,
+                              3,
+                              0.95984318452468065,
+                              6,
+                              0.040156815475319241,
+                              2,
+                              3,
+                              0.99300200427323626,
+                              6,
+                              0.0069979957267638157,
+                              2,
+                              3,
+                              0.96557875388195569,
+                              6,
+                              0.034421246118044313,
+                              2,
+                              3,
+                              0.96039486175778144,
+                              6,
+                              0.039605138242218535,
+                              2,
+                              3,
+                              0.99296021826962122,
+                              6,
+                              0.0070397817303788851,
+                              2,
+                              3,
+                              0.9472835804442542,
+                              6,
+                              0.052716419555745832,
+                              4,
+                              6,
+                              0.86014551700017905,
+                              3,
+                              0.092351037644842399,
+                              13,
+                              0.023919787442828463,
+                              8,
+                              0.023583657912149964,
+                              4,
+                              6,
+                              0.68642899234933663,
+                              8,
+                              0.14396858928231651,
+                              3,
+                              0.096292415668685169,
+                              13,
+                              0.073310002699661786,
+                              4,
+                              8,
+                              0.40910706203055025,
+                              6,
+                              0.40509965942214926,
+                              13,
+                              0.10379722908575642,
+                              3,
+                              0.081996049461544041,
+                              3,
+                              8,
+                              0.5431857449228743,
+                              6,
+                              0.35475358903293908,
+                              13,
+                              0.10206066604418661,
+                              4,
+                              6,
+                              0.53118921467897062,
+                              8,
+                              0.31944372515560593,
+                              13,
+                              0.095483048279016908,
+                              3,
+                              0.053884011886406513,
+                              4,
+                              6,
+                              0.66420037544754429,
+                              8,
+                              0.2092002403254925,
+                              13,
+                              0.08131200256712949,
+                              3,
+                              0.045287381659833856,
+                              3,
+                              8,
+                              0.45984761988390344,
+                              6,
+                              0.43631517999279301,
+                              13,
+                              0.10383720012330359,
+                              3,
+                              8,
+                              0.91942534135101839,
+                              6,
+                              0.04775427090041711,
+                              13,
+                              0.032820387748564481,
+                              3,
+                              8,
+                              0.7631868490882342,
+                              13,
+                              0.12120053311019305,
+                              6,
+                              0.11561261780157282,
+                              2,
+                              8,
+                              0.84688051739177084,
+                              13,
+                              0.15311948260822916,
+                              2,
+                              8,
+                              0.84058480550449743,
+                              13,
+                              0.15941519449550265,
+                              4,
+                              14,
+                              0.09300455052716243,
+                              8,
+                              0.68599791500563312,
+                              13,
+                              0.13078763370403715,
+                              6,
+                              0.090209900763167317,
+                              4,
+                              14,
+                              0.09088125745442717,
+                              8,
+                              0.69100136932408107,
+                              13,
+                              0.14232234996999177,
+                              6,
+                              0.07579502325150006,
+                              4,
+                              14,
+                              0.16904261312430016,
+                              8,
+                              0.50034876474859546,
+                              13,
+                              0.25141222033771804,
+                              6,
+                              0.079196401789386112,
+                              3,
+                              14,
+                              0.35060520563516134,
+                              8,
+                              0.33606219177109342,
+                              13,
+                              0.31333260259374529,
+                              3,
+                              14,
+                              0.47580789657613454,
+                              13,
+                              0.28324561157539074,
+                              8,
+                              0.24094649184847469,
+                              3,
+                              14,
+                              0.58797973173260043,
+                              13,
+                              0.24070451568178589,
+                              8,
+                              0.17131575258561377,
+                              3,
+                              14,
+                              0.74890312395753011,
+                              13,
+                              0.16115728943748006,
+                              8,
+                              0.089939586604989824,
+                              3,
+                              14,
+                              0.88377433315078291,
+                              13,
+                              0.08140376076374399,
+                              8,
+                              0.034821906085473094,
+                              3,
+                              14,
+                              0.92137105146589904,
+                              13,
+                              0.055630096515107037,
+                              8,
+                              0.0229988520189938,
+                              2,
+                              14,
+                              0.95099849100283917,
+                              13,
+                              0.049001508997160825,
+                              2,
+                              14,
+                              0.87777416712954548,
+                              13,
+                              0.12222583287045445,
+                              3,
+                              14,
+                              0.82059924539608631,
+                              13,
+                              0.1327424894807816,
+                              8,
+                              0.046658265123132162,
+                              3,
+                              14,
+                              0.6679619515203109,
+                              13,
+                              0.26002486152836735,
+                              8,
+                              0.072013186951321723,
+                              4,
+                              14,
+                              0.39439348604036317,
+                              13,
+                              0.44001895843418365,
+                              8,
+                              0.084426951374229731,
+                              6,
+                              0.081160604151223462,
+                              4,
+                              14,
+                              0.13914853338755748,
+                              13,
+                              0.69151794508964881,
+                              6,
+                              0.097913841596153656,
+                              8,
+                              0.07141967992664007,
+                              3,
+                              14,
+                              0.13415920207928789,
+                              13,
+                              0.73403555952025945,
+                              6,
+                              0.13180523840045272,
+                              4,
+                              14,
+                              0.096733649743728126,
+                              13,
+                              0.622131714774116,
+                              6,
+                              0.15936706824147845,
+                              3,
+                              0.12176756724067736,
+                              4,
+                              13,
+                              0.52996323536830814,
+                              6,
+                              0.21130057536032576,
+                              3,
+                              0.17308176208134377,
+                              8,
+                              0.085654427190022323,
+                              4,
+                              13,
+                              0.49687398482148021,
+                              6,
+                              0.3165175307273872,
+                              3,
+                              0.1045361519074393,
+                              8,
+                              0.082072332543693269,
+                              4,
+                              6,
+                              0.54741947372024025,
+                              13,
+                              0.30703863642121898,
+                              8,
+                              0.085596678165762066,
+                              3,
+                              0.059945211692778479,
+                              4,
+                              6,
+                              0.80398672619269063,
+                              8,
+                              0.090329484069728794,
+                              13,
+                              0.086789164993729018,
+                              3,
+                              0.01889462474385159,
+                              4,
+                              6,
+                              0.86496086506068648,
+                              8,
+                              0.060703608906239617,
+                              13,
+                              0.059587961717857553,
+                              3,
+                              0.01474756431521634,
+                              4,
+                              6,
+                              0.70111900709297592,
+                              13,
+                              0.1756159511875913,
+                              8,
+                              0.069563426961258598,
+                              3,
+                              0.053701614758174074,
+                              4,
+                              6,
+                              0.41087864738538898,
+                              13,
+                              0.3207965876152592,
+                              3,
+                              0.18463552659233651,
+                              8,
+                              0.08368923840701524,
+                              3,
+                              3,
+                              0.46690395450260258,
+                              6,
+                              0.32294311002916082,
+                              13,
+                              0.21015293546823646,
+                              3,
+                              3,
+                              0.61627030313616626,
+                              6,
+                              0.26861830644437706,
+                              13,
+                              0.11511139041945671,
+                              3,
+                              3,
+                              0.47929282762165132,
+                              6,
+                              0.41068647021500998,
+                              13,
+                              0.11002070216333883,
+                              4,
+                              6,
+                              0.79044331919098532,
+                              3,
+                              0.12133579977964302,
+                              13,
+                              0.056100524719192732,
+                              8,
+                              0.032120356310178913,
+                              4,
+                              6,
+                              0.90059440980777727,
+                              3,
+                              0.051531454745635676,
+                              13,
+                              0.029039034641708851,
+                              8,
+                              0.018835100804878147,
+                              4,
+                              6,
+                              0.92870280338063271,
+                              3,
+                              0.039550225904053583,
+                              13,
+                              0.018829126723795653,
+                              8,
+                              0.012917843991517816,
+                              4,
+                              6,
+                              0.73793996574121257,
+                              3,
+                              0.18452451320572621,
+                              13,
+                              0.048700160956664573,
+                              8,
+                              0.028835360096396728,
+                              3,
+                              3,
+                              0.91526818878900373,
+                              6,
+                              0.066565213759412378,
+                              13,
+                              0.018166597451583919
+                           ],
+                           "width" : 298.89000087976456
+                        }
+                     ],
+                     "name" : "y2"
+                  },
+                  {
+                     "display" : [
+                        {
+                           "name" : "root_boundingBox",
+                           "path" : "root_boundingBox",
+                           "subType" : "polygon",
+                           "transform" : {
+                              "x" : -133.33612539246678,
+                              "y" : -27.762750081717968
+                           },
+                           "type" : "boundingBox",
+                           "vertices" : [
+                              -970.04587785527121,
+                              -508.90275149792433,
+                              972.25312786176801,
+                              -508.90275149792433,
+                              972.25312786176801,
+                              506.67525149136782,
+                              -974.46037786826503,
+                              511.13025150448084
+                           ]
+                        }
+                     ],
+                     "name" : "root_boundingBox"
+                  }
+               ]
+            }
+         ],
+         "slot" : [
+            {
+               "color" : {},
+               "name" : "y2",
+               "parent" : "y22"
+            },
+            {
+               "color" : {},
+               "name" : "root_boundingBox",
+               "parent" : "root",
+               "z" : 1
+            }
+         ],
+         "type" : "Armature"
+      }
+   ],
+   "frameRate" : 24,
+   "isGlobal" : 0,
+   "name" : "b1_p6_3",
+   "version" : "5.0"
+}

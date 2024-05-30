@@ -1,0 +1,29 @@
+{
+   "SubTexture" : [
+      {
+         "height" : 55,
+         "name" : "12/2sz3",
+         "width" : 30,
+         "x" : 53,
+         "y" : 0
+      },
+      {
+         "height" : 66,
+         "name" : "12/2sz2",
+         "width" : 51,
+         "x" : 0,
+         "y" : 0
+      },
+      {
+         "height" : 31,
+         "name" : "12/2sz1",
+         "width" : 51,
+         "x" : 0,
+         "y" : 68
+      }
+   ],
+   "height" : 105,
+   "imagePath" : "b1_p16_8_tex.png",
+   "name" : "b1_p16_8",
+   "width" : 105
+}
